@@ -1,0 +1,2914 @@
+NI 43-101 Technical Report Mada Cobalt Project, Southeastern Cameroon
+Prepared for Geovic Ltd.
+February 16, 2007 34419
+
+NI 43-101 Technical Report Mada Cobalt Project, Southeastern Cameroon
+Prepared for Geovic Ltd.
+February 16, 2007 34419
+Prepared by Pincock, Allen & Holt Frederick L. Barnard, Ph.D. Richard J. Lambert, P.E. Alan C. Noble, P.E.
+
+CONTENTS
+
+1.0 EXECUTIVE SUMMARY
+
+1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8 1.9 1.10 1.11 1.12 1.13 1.14
+
+Overview Location Project Ownership Geology Mineralization Exploration Resource Modeling Resource Statement Mining Metallurgy Processing Tailings Disposal and Management Regional Infrastructure Study Conclusions 1.14.1 Adequacy of Procedures 1.14.2 Adequacy of Data 1.14.3 Adequacy of Preliminary Feasibility 1.14.4 Compliance with Canadian NI 43-101 Standards
+
+2.0 INTRODUCTION AND TERMS OF REFERENCE
+
+2.1 Terms of Reference 2.2 Purpose of the Technical Report 2.3 Sources of Information 2.4 Site Visit 2.5 Terms and Definitions
+
+3.0 RELIANCE ON OTHER EXPERTS
+
+4.0 PROPERTY DESCRIPTION AND LOCATION
+
+4.1 Property Description 4.2 Property Area 4.3 Location 4.4 Prospecting, Exploration and Mining Rights
+4.4.1 Project Ownership 4.4.2 Mineral Tenure
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+Page
+1.1
+1.1 1.1 1.1 1.2 1.2 1.2 1.3 1.3 1.4 1.4 1.5 1.6 1.6 1.7 1.7 1.7 1.8 1.8
+2.1
+2.1 2.1 2.1 2.1 2.1
+3.1
+4.1
+4.1 4.4 4.4 4.4 4.4 4.5
+Page i
+
+CONTENTS (Continued)
+4.4.3 Property Survey 4.4.4 Surface Land Ownership 4.5 Environmental and Permitting 4.6 Permits Required for Property Development
+5.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, AND INFRASTRUCTURE
+5.1 Access 5.2 Climate 5.3 Vegetation 5.4 Physiography 5.5 Infrastructure
+6.0 HISTORY
+6.1 Production History
+7.0 GEOLOGIC SETTING
+7.1 Regional Geologic Setting 7.2 Regional Metallogeny 7.3 Deposit Geology
+8.0 DEPOSIT TYPES
+8.1 Laterite Deposits 8.2 Alluvial Deposits
+9.0 MINERALIZATION
+9.1 Laterites 9.1.1 Laterite Stratigraphy 9.1.2 Laterite Mineralogy
+10.0 PROJECT EXPLORATION
+11.0 SAMPLING
+Pincock, Allen & Holt 34419 February 16, 2007
+
+Page
+4.5 4.6 4.7 4.8
+5.1
+5.1 5.1 5.3 5.3 5.4
+6.1
+6.1
+7.1
+7.1 7.1 7.4
+8.1
+8.1 8.2
+9.1
+9.1 9.1 9.4
+10.1
+11.1
+Page ii
+
+CONTENTS (Continued)
+
+12.0 SAMPLING METHODOLOGY
+
+12.1 Pit Sampling
+
+13.0 SAMPLE PREPARATION, ANALYSIS AND SECURITY
+
+13.1 13.2
+13.3 13.4 13.5
+13.6
+
+Sample Preparation Assaying 13.2.1 Sample Preparation for Assaying 13.2.2 Laboratory Qualifications 13.2.3 Laboratory Methods Bulk Samples Inter-Laboratory Comparisons Quality Control 13.5.1 Actlabs Quality Control 13.5.2 Geovic Sample Splits Excluded Samples and Reasons
+
+14.0 DATA VERIFICATION
+
+14.1 PAH Samples
+
+15.0 ADJACENT PROPERTIES
+
+16.0 METALLURGICAL TESTING AND MINERAL PROCESSING
+
+16.1
+16.2 16.3 16.4
+
+Metallurgical Testwork 16.1.1 Physical Upgrading Tests 16.1.2 Leaching and Metal Recovery Testing 16.1.3 Metallurgical Performance 16.1.4 Testwork Summary and Conclusions Process Description Tailings Disposal Process Water Balance
+
+17.0 MINERAL RESOURCE
+
+17.1 Resource Model
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+Page
+12.1
+12.1
+13.1
+13.1 13.2 13.2 13.2 13.3 13.3 13.3 13.3 13.4 13.4 13.4
+14.1
+14.1
+15.1
+16.1
+16.1 16.2 16.3 16.3 16.4 16.5 16.5 16.6
+17.1
+17.1
+Page iii
+
+CONTENTS (Continued)
+
+Page
+
+17.2 17.3 17.4
+17.5 17.6 17.7
+
+Sample Data Topographic Data Grade Distributions 17.4.1 Cobalt Grade 17.4.2 Nickel Grade Lithologic Surfaces Resource Estimation Method Resource Classification
+
+17.2 17.2 17.2 17.2 17.6 17.8 17.8 17.8
+
+18.0 OTHER RELEVANT DATA AND INFORMATION
+
+18.1
+
+19.0 INTERPRETATION AND CONCLUSIONS
+
+19.1
+
+19.1 Study Conclusions
+
+19.1
+
+20.0 RECOMMENDATIONS
+
+20.1
+
+21.0 REFERENCES
+
+21.1
+
+22.0 ILLUSTRATIONS
+
+22.1
+
+23.0 ADDITIONAL REQUIREMENTS FOR DEVELOPING OR PRODUCING
+
+PROPERTIES
+
+23.1
+
+24.0 CERTIFICATES OF QUALIFICATIONS
+
+24.1
+
+TABLES
+1-1 Mada Resource Estimate
+4-1 Mine Permit Boundary 4-2 Southeast Cameroon Land Uses
+9-1 Laterite Stratigraphy, Modified Slightly from Nkamouna Stratigraphy 9-2 Selected Minerals in Laterite Profile 9-3 Lateritic Nickel-Cobalt Deposits World-wide
+11-1 Sampling Pits
+
+1.4
+4.5 4.6
+9.3 9.5 9.8
+11.1
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+Page iv
+
+CONTENTS (Continued)
+
+Page
+
+17-1 17-2 17-3 17-4
+
+Mada Resource Estimate (Sample Spacing up to 1500 Meters, Maximum Extrapolation 420 Meters Mada Resource Estimate (Sample Spacing up to 500 Meters, Maximum Extrapolation 140 Meters Mada Resource Estimate (Sample Spacing 500 to 1000 Meters, Maximum Extrapolation 280 Meters) Mada Resource Estimate (Sample Spacing 1000 to 1500 Meters, Maximum Extrapolation 420 Meters)
+
+17.2 17.9 17.9 17.10
+
+FIGURES
+
+4-1 General Location Map 4-2 Location of Mining Permit Boundary
+
+5-1 Transportation Routes
+
+7-1 Regional Geology 7-2 Regional Stratigraphy 7-3 Bedrock Geology 7-4 Nkamouna Deposit Stratigraphy
+
+12-1 Two Man Pitting Crew 12-2 Pit, Showing Prior Drill Hole in Far Corner and Four Additional Sampling Channels
+
+17-1 17-2 17-3 17-4 17-5
+
+Cobalt Grade Thickness Using Cutoff of 0.12% Cobalt Thickness of Cobalt Mineralization above 0.12% Cobalt Five Meter Topographic Contours Based on Pit Collar Elevations Lognormal Cumulative Frequency Plot for Cobalt Grade Lognormal Cumulative Frequency Plots for Nickel Grade
+
+4.2 4.3
+5.2
+7.2 7.3 7.5 7.6
+12.2 12.3
+17.3 17.4 17.5 17.6 17.7
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+Page v
+
+1.0 EXECUTIVE SUMMARY
+1.1 Overview
+Geovic, Ltd. (Geovic), through its 60 percent-owned subsidiary Geovic Cameroon PLC (GeoCam), controls exclusive rights to a large cobalt-nickel laterite province located in southeastern Cameroon. Pincock, Allen & Holt (PAH) conducted a review of a report titled Resource Estimate for the Mada Cobalt Deposit, East Province, Republic of Cameroon, dated November 30, 2005, prepared by Alan C. Noble P.E., Ore Reserves Engineering, Lakewood, Colorado, USA. The Mada project, one of seven deposits, contains 145 million tonnes of inferred mineral resources at average grades of 0.21 percent cobalt, 0.48 percent nickel, and 1.15 percent manganese.
+This Technical Report is based in part on information prepared by other parties. PAH has relied primarily on information provided as part Mr. Noble’s report. Mr. Noble prepared the report under contract to Geovic, Ltd. He is an associate of PAH and has worked on other projects, including Nkamouna as a PAH associate.
+1.2 Location
+Geovic’s Cobalt-Nickel Project is located in the Haut Nyong Division, East Province of Cameroon, Africa. The Project’s site is 640 kilometers by road from the seaport of Douala, and about 380 kilometers from the capital city of Yaounde. The closest town to the Project site is Lomie, at approximately 33 kilometers to the west – southwest. The closest railroad transport to the Project is at the town of Belabo, at a distance of approximately 250 kilometers. International airports and modern telecommunication facilities exist at Yaounde and Douala. Suitable shipping and receiving facilities exist at the international seaport of Douala.
+1.3 Project Ownership
+The mining rights held by GeoCam, consist of a Mining Permit covering a total surface of 1,600 square kilometers, which includes approximately 337 square kilometers of cobalt-nickel mineralized lands. Most of the Mining Permit lands are zoned “mineral exclusive” lands.
+The Mining Convention was signed on July 31, 2002 by the Ministry of Mines, Water, and Power of the Republic of Cameroon. On April 11, 2003, a Mining Permit Decree was issued to GeoCam, covering an area of 1,600 square kilometers. The Mining Permit Decree states the area as 1,250 square kilometers, although the area within the coordinate boundary measures 1,600 square kilometers.
+Geovic’s participation in the Mining Permit holder GeoCam is 60 percent direct corporate holding by the US-based Geovic, Ltd. In addition, another 0.5 percent is held by Geovic’s founder with 19.5 percent and 20 percent held by SNI, a Cameroon government investment corporation. The 39.5 percent balance is currently held by four Cameroonian individual shareholders.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+1.1
+
+1.4 Geology
+
+Southeastern Cameroon lies within a region of metamorphosed Proterozoic rocks ranging in age from 600 to 1,800 million years and extending across much of west-central Africa. In southeastern Cameroon, several assemblages of such metamorphic rocks occur, including cobalt, nickel and manganese enriched laterite profiles that resulted from the weathering of serpentinites. The Mada deposit is one of seven deposits hosted in residual laterites that have formed by prolonged tropical weathering of serpentinites. Large areas of mineralized laterite, some of which are several tens of square kilometers in extent, have been preserved on low-relief mesas or plateaus underlain by ultramafic rocks that stand over the surrounding dissected lowlands. The lowlands are underlain by schists, phyllites, quartzites and metavolcanics.
+
+The Cameroon laterite profiles show a strong vertical zonation, which reflects the transition from unweathered host rock at the base, to highly leached residues at the surface. The Cameroon laterites depart from the norm somewhat, in possessing two layers of iron-rich laterite, between which lies ferricrete breccia. The portion of the profile under the breccia includes limonitic ferralite and underlying saprolite units that are more typical of humid tropical laterite profiles.
+
+1.5 Mineralization
+
+The Mada mineralization is unusual in terms of mineralogy as all the cobalt, approximately half the nickel and nearly all the manganese is contained in the mineral asbolane. Asbolane is a relatively hard mineral that is uniquely coarse in these particular deposits. Mada is atypical of nickel laterite deposits in its high Co:Ni ratio, high cobalt grade, abundant maghematite, thickness of ferricrete breccia and very low content of magnesium oxide.
+
+Of great significance is the size of asbolane agglomerates and wad that host much of the cobalt and almost all of the manganese. Some would describe the deposit as a cobalt-containing manganese ore in a lateritic profile rather than a cobalt laterite. A substantial portion of the cobalt in other laterite deposits is contained in absolane, but is too fine or too low grade to allow physical upgrading.
+
+1.6 Exploration
+
+Nickeliferous laterite deposits in southeast Cameroon were first discovered and investigated by the United Nations Development Program (UNDP) during 1981-1986, in a cooperative project with the Cameroon Ministry of Mines, Water and Energy to evaluate mineral potential in southeastern Cameroon. Following a regional stream sediment geochemical survey that indicated the likely presence of laterite nickel mineralization, the UNDP project drilled eleven core holes in the Nkamouna area.
+
+Several of the UNDP holes intersected laterite and saprolite with interesting nickel and cobalt values. The first hole traversed 56 meters of laterite and fresh serpentinite, with nickel values up to 1.00 percent and cobalt values up to 0.19 percent. Due to the remote location and the low nickel prices at the time, the discovery did not draw much attention.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+1.2
+
+A government-issued Prospecting Permit covering 19,600 square kilometers was granted to GeoCam in 1995. In 1999, an Exploration Permit, PDR 67, was granted on a reduced area of 4,876 square kilometers. A Mining Convention was entered into between GeoCam and the Republic of Cameroon in 2002. In 2003 Mine Permit No. 33 was issued by decree granting to GeoCam the exclusive rights to exploit the deposits within the permitted 1,600 square kilometer area.
+
+GeoCam’s exploration program initially was based on manually dug test pits, and later incorporated drilling and limited trenching. The program began at Nkamouna and was later extended to the other laterite plateaus, which were identified by satellite images and air photos. Geologists from the Cameroon Ministry of Mines, Water and Energy participated in the work to provide government oversight as well as training. By 2003, Geovic had largely completed the pitting program at Mada. Much more intensive work was carried out on the nearby Nkamouna plateau, due to the better access there utilizing recent logging roads.
+
+1.7 Resource Modeling
+
+A mineral resource estimate was prepared for the Mada area using a three-dimensional block model to estimate cobalt, nickel, and manganese grade for individual blocks with dimensions of 10 by 10-meters horizontal by 1-meter vertical. In addition, lithology codes and resource classification codes were defined for each block.
+
+Compared to the Nkamouna deposit, the Mada deposit is reported to have similar geologic properties. Significant differences between the deposits and data are as follows:
+
+1. The potentially mineralized material at Mada covers an area approximately seven times larger than Nkamouna.
+
+2. All Mada samples are pits and most of the pits are not deep enough to penetrate the full thickness of the lower limonite (ferralite) horizon, which is the primary ore-bearing horizon at Nkamouna.
+
+3. The Mada deposit is much more sparsely sampled than Nkamouna. Except for a few fences of pits at 100-meter spacing, sample spacing is on an approximate 500-meter grid. There are 296 pits at Mada, while 1,272 pits and drill holes were used for the Nkamouna estimate or 77 percent fewer sample locations. Considering the greater area of Mada, the sampling density is only 1/30th that of Nkamouna.
+
+1.8 Resource Statement
+
+Resources by definition are in-situ mineral occurrences that are quantified based on geological data, but may not necessarily be economic. Resource classification was established for each block based on the sample grid spacing model. Determination of the appropriate grid size for each resource class was based on the continuity of cobalt above a cutoff grade of 0.10 percent.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+1.3
+
+The mineral resource is summarized in Table 1-1. The cutoff grades vary based on processing characteristics of each of the lithologic units. All Mada resources are classified as “Inferred Resources.”
+
+The Mada resource is summarized using a cutoff grade of 0.12 percent for ferralite and 0.28 percent cobalt for breccia.
+
+TABLE 1-1
+
+Geovic, Ltd.
+
+Mada Resource Estimate
+
+(Sample Spacing up to 1500 meters, Maximum Extrapolation 420 meters)
+
+Inferred NN Resource Before Adjustment for Volume-Variance Effects
+
+Cutoff
+
+Tonnes
+
+Type
+
+%Co
+
+(1000's)
+
+%Co
+
+%Ni %Mn
+
+Breccia
+
+0.28
+
+13,200
+
+0.43
+
+0.56 2.87
+
+Ferralite
+
+0.12
+
+118,000
+
+0.21
+
+0.49 1.08
+
+Total
+
+131,200
+
+0.23
+
+0.50 1.26
+
+Inferred NN Resource After Adjustment for Volume-Variance Effects
+
+Cutoff
+
+Tonnes
+
+Type
+
+%Co
+
+(1000's)
+
+%Co
+
+%Ni %Mn
+
+Breccia
+
+0.28
+
+14,300
+
+0.38
+
+0.53 2.53
+
+Ferralite
+
+0.12
+
+130,800
+
+0.20
+
+0.48 1.00
+
+Total
+
+145,100
+
+0.21
+
+0.48 1.15
+
+PAH believes that the resource estimate included in this report conforms to international standards such as the Canadian Institute of Mining (CIM) definitions as adopted by Canadian National Instrument NI 43101.
+
+1.10
+
+Mining
+
+It is envisoned that the Mada project will be mined as an open-pit utilizing hydraulic shovels and trucks as the primary mining equipment. No mine plan was developed from the resource model.
+
+1.11
+
+Metallurgy
+
+There is no specific physical upgrading or agitation acid leach testwork for the Mada project. There has been many metallurgical studies conducted for the Nkamouna project and a prefeasibility study was completed in March 2006. However, it is anticipated that the mineralization and metallurgical processes for both Nkamouna and Mada will be similar, based on mineralogical characterizations performed by Pittsburgh Mineral & Environmental Technology (PMET) on samples from Nkamouna, Mada, and Rapodjombo.
+
+A bulk sample was taken from 25 Mada pits (53, 1-meter samples) that were metallurgically tested by Metcon (Tucson, Arizona) and compared to the Nkamouna metallurgical tests. The Mada and Rapodjombo metallurgical samples were found to be consistent with the Nkamouna column (heap leach) tests.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+1.4
+
+In 2002 Pittsburgh Mineral & Environmental Technology identified asbolane as the host of the cobalt in the Cameroon deposits.
+
+Testwork for Physical Upgrading (PUG)
+
+Several investigators determined that a simple physical sizing process could produce an asbolane concentrate. The concept of dis-aggregation and separation of the uniquely coarse asbolane in this ore from the fine, soft waste and low-grade material was firmly established. The finer grained, softer ferralite ore type responded more favorably than the harder breccia ore types.
+
+Encouraged by these results, a comprehensive upgrading program was initiated at MSRDI. The program included scrubbing/attritioning of a variety of lithologic samples with and without wetting agents and pH modifiers. MSRDI evaluated particle separations at sizes ranging from 8 to 200-mesh. The objective was to optimize project economic performance not metal recoveries.
+
+Testwork for Metal Recovery Plant (MRP)
+Hazen Research, Inc prepared a composite sample from the test concentrates produced by MSRDI. Hazen completed a comprehensive series of bench-scale tests investigating the dissolution of the asbolane concentrate, purification of the resulting leach solution, solvent extraction and production of cobalt, nickel and manganese products. Hazen also completed a prefeasibility study of the Metals Recovery Plant (MRP) for Nkamouna. This study concentrated solely on the leaching and metals recovery operations. It included a conceptual design, preliminary equipment selection and capital and operating costs of several alternative scenarios.
+
+1.12
+
+Processing
+
+Processing this unique material starts with crushing, attritioning and particle sizing to produce a highgrade, coarse concentrate. Mineralized material will be fed to the PUG plant. The plant basically consists of a receiving hopper and two stages each of crushing, attritioning and particle classifying to produce coarse, high-grade concentrates (-1 inch x +48 mesh), low-grade middlings (-48 mesh x +200 mesh) and fine tailings (-200 mesh). The concentrate will be conveyed to a receiving bin at the process plant. The simplified procedures described below were developed by Hazen Research to process the PUG concentrate at the MRP:
+
+• Grind to 80 percent minus 100-mesh for optimum leach performance.
+• Leach with sulfurous acid in four agitated tanks under atmospheric pressure and at a
+temperature of 70° C.
+• Separate leached solid tailings from the Pregnant Leach Solution (PLS) by a series of six counter-
+current decantation thickeners.
+• Condition PLS to consume all sulfite and remove aluminum, iron, copper and zinc prior to SX.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+1.5
+
+• Concentrate, purify and separate cobalt and nickel in a two-stage SX circuit using hydrochloric
+acid as stripping agent.
+• Convert cobalt and nickel chloride solutions to high purity, marketable oxides (78+% metal)
+while regenerating hydrochloric acid using spray roasters.
+
+1.15
+
+Tailings Disposal and Management
+
+As currently envisioned, there are four waste and low-grade streams from the process. Two from the PUG plant, and two from the MRP. The PUG plant feed is a nominal 7,000 tpd with 1,500 tpd of product to the MRP, 4,700 tpd of PUG tailings, and 800 tpd of middling concentrates. The PUG middling concentrates will be stored in a segregated area of the mine backfill. The PUG tailings will be disposed of in a tailings storage facility.
+
+The two waste streams from the MRP are the manganese precipitate and the CCD leach tails. The manganese precipitate is stored in a segregated area of the mine backfill (~ 55 tpd) and the CCD leach tails (~ 1,385 tpd) are disposed with the PUG tails in a tailings storage facility.
+
+The following options will be evaluated for processing mineralized material from Mada.
+
+• Truck the Mada mineralized material to the Nkamouna PUG and MSP plants.
+
+• Install a PUG plant at Mada and truck concentrates to the Nkamouna plant.
+
+• Install a new PUG and MRP in the north Mada area.
+
+Depending on the process decision from the above options, after the Napene Creek tailings storage facility is filled to capacity, tailings from additional Mada resources could be piped to other alternate tailings disposal areas currently being considered within a 4 kilometer radius of the Nkamouna plant site.
+
+1.16
+
+Regional Infrastructure
+
+The Project is located in the East Province of Cameroon, about 640 kilometers by road from the seaport of Douala, and 380 kilometers from the capital city of Yaounde. International airports and modern telecommunication facilities exist at Yaounde and Douala. Douala also has adequate seaport facilities to meet all foreseeable needs of the Project. Railroad transport is not planned for use since service is limited and the closest siding is 250 kilometers northeast of the Project.
+
+Access to the Project from the seaport of Douala is by a paved highway via Yaounde to Ayos. A reasonably well-maintained, two-lane gravel road extends in 90 kilometers from Ayos to Abong Mbang. Lomie is reached by turning south from Abong Mbang on a narrow dirt road for 127 kilometers. Lomie is the only town of any size in proximity to the Project, which is 30 kilometers to the east. Driving from Yaounde to the Project takes about 8 hours.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+1.6
+
+1.17
+
+Study Conclusions
+
+Key findings of the Technical Report are summarized below:
+
+ Pincock Allen & Holt (PAH) estimates that the Mada deposit contains an inferred resource of 145 million tonnes at a grade of 0.21 percent cobalt and 0.48 percent nickel. Resources are based on definitions in Canadian National Instrument 43-101 and meet other international standards.
+
+ The deposit averages approximately 4 meters in depth and is relatively simple to mine. Most mineralization is contained in one interval averaging 4 meters thick.
+
+ Metallurgy is straightforward using attritioning and size separation to produce a high-grade concentrate while rejecting nearly 80 percent of the run-of-mine material as waste and low grade. Concentrate leaching is at low temperature and atmospheric pressure, followed by solvent extraction and pyrohydrolysis to produce high-purity cobalt and nickel oxides. The Mada mineralization is substantially lower in acid consuming constituents than most other laterite deposits.
+
+ GeoCam’s mining rights were secured from the Republic of Cameroon via a Mining Convention issued in 2002 and a 25-year Mining Permit decreed in 2003 that covers 1,600 square kilometers and is renewable for the life of the resource. Business incentives were granted in 2002 when the project was designated a Strategic Enterprise Regime.
+
+ Substantial resources occur in the Mada deposit on GeoCam’s Mine Permit that may feed the initial Nkamouna plant for several additional years.
+
+1.17.1
+
+Adequacy of Procedures
+
+PAH and various other firms and independent consultants have reviewed the methods and procedures utilized by Geovic at the Mada Project to gather geological, geotechnical, and assaying information and found them reasonable and meeting generally accepted industry standards for a technical report.
+
+1.17.2
+
+Adequacy of Data
+
+PAH believes that Geovic has conducted exploration and development sampling and analysis programs using standard practices, providing generally reasonable results. PAH believes that the resulting data can effectively be used in the subsequent estimation of resources.
+
+1.17.3
+
+Adequacy of Technical Report
+
+This Technical Report is based on the report titled Resource Estimate for the Mada Cobalt Deposit, East Province, Republic of Cameroon, dated November 30, 2005, prepared by Alan C. Noble P.E., Ore Reserves Engineering, Lakewood, Colorado, USA. The report was prepared using standard industry practices and provides reasonable results and conclusions.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+1.7
+
+1.17.4
+
+Compliance with Canadian NI 43-101 Standards
+
+PAH believes that the current degree of evaluation is sufficient for generating a technical report for use in resource estimation. Recovery and cost estimates are based upon data from the Nkamouna project Preliminary Feasibility Study to support the cutoff grades used in the resource statement.
+
+At a 0.12 percent cobalt cutoff grade in the limonite and ferralite, and a 0.23 cobalt cutoff grade in the breccia the inferred resource is 145 million tonnes at a cobalt grade of 0.21 percent and a nickel grade of 0.48 percent.
+
+PAH believes that the resource estimates have been calculated utilizing acceptable estimation methodologies. PAH is also of the opinion that the classification of resources, stated in Table 1-1, meet the definitions as stated by Standards for Disclosure for Mineral Projects, Form 43-101F1 and Companion Policy 43-101CP dated December 23, 2005.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+1.8
+
+2.0 INTRODUCTION AND TERMS OF REFERENCE
+2.1 Terms of Reference
+Pincock, Allen & Holt (PAH) was retained by Geovic, Ltd. (Geovic), to prepare a Technical Report (TR) in accordance with Canadian National Instrument 43-101 for the Mada project in southeastern Cameroon. Since mid-1994, Geovic initiated prospecting activities in the Republic of Cameroon that led to application for a Prospecting Permit, which was granted to Geovic through its majority-owned subsidiary Geovic Cameroon S.A. (GeoCam) on April 25, 1995, for a total coverage of 19,600 square kilometers. On April 11, 2003, the Government decreed a 1,600 square-kilometer Mine Permit. PAH reviewed all relevant data supplied by Geovic.
+Personnel assigned for this technical report includes the following:
+ Richard Lambert, P.E. – Principal Mining Engineer and Project Manager  Alan C. Noble, P.E. – Associate Geostatistician  Fred Barnard, Ph.D. – Associate Geologist  Other PAH personnel as required
+2.2 Purpose of the Technical Report
+Preparation of this Technical Report (TR) for Geovic by PAH included a site visit to review the Project current status, and observe environmental and infrastructural conditions. This TR is completed to meet the requirements of Canada National Instrument 43-101.
+2.3 Sources of Information
+Technical information for the Geovic Project, including data for the Mada area was provided by Geovic to PAH, and it consisted of data collected by Geovic’s personnel during their exploration efforts.
+2.4 Site Visit
+Preparation of this Technical Report for Geovic by PAH included a site visit to review the project’s current status and present infrastructure conditions. The site visit was performed by PAH’s Representative, Frederick L. Barnard, Ph.D., as a Qualified Person (QP) and Principal Economic Geologist, from August 29 to September 7, 2004. A second site visit was performed by Richard J. Lambert, P.E., PAH’s Vice President of Mining and Geological Services, from August 11 – 13, 2006.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+2.1
+
+2.5 Terms and Definitions
+
+Unless otherwise stated, Dollars are United States Dollars, and weights are in metric tonnes of 2,204.6 pounds.
+The following abbreviations are used in this report:
+
+Abbreviation ASTM kcal kg km k mtpy PAH % T or t tpa tpy tpd US$
+
+Unit or Term American Society for Testing and Materials Kilocalories Kilograms Kilometer Thousands Million tonnes per year Pincock, Allen & Holt Percent by weight Metric Tonne (2,204 lbs) Tonnes per annum Tonnes per year Tonnes per day United States Dollars
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+2.2
+
+3.0 RELIANCE ON OTHER EXPERTS
+This Technical Report was prepared for Geovic, Ltd. (“Company”) by the independent consulting firm of Pincock, Allen & Holt (“Consultant”) to report results of a new mineral resource estimate for the Mada Cobalt-Nickel Project in southeastern Cameroon. This TR is based in part on information prepared by other parties. PAH has relied primarily on information provided as part of the following report:
+Resource Estimate for the Mada Cobalt Deposit, East Province, Republic of Cameroon, dated November 30, 2005, prepared by Alan C. Noble P.E., Ore Reserves Engineering, Lakewood, Colorado USA.
+Mr. Noble prepared the report under contract to Geovic, Ltd. He is an associate of PAH and has worked on other projects, including Nkamouna as a PAH associate.
+PAH believes that this information is reliable for use in this report.
+PAH has not conducted land and mineral rights legal title evaluations and has relied on information provided by Geovic pertaining to property ownership, which PAH believes is reliable. PAH has not conducted detailed permitting evaluations required by the Republic of Cameroon Mining and Environmental Laws, for which PAH has only relied on public reports, opinions, verbal assessments, third party reports, and confirmations by Geovic personnel who are experienced professionals, which PAH believes to be accurate.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+3.1
+
+4.0 PROPERTY DESCRIPTION AND LOCATION
+
+4.1 Property Description
+
+The Mada project is located in southeastern Cameroon, (Figure 4-1) approximately 640 road kilometers east of the port city of Douala and 400 road kilometers east of the capitol of Yaounde.
+
+The Mada project is one of seven separately-named laterite plateaus forming a crescent-shaped array which extends 80 km north-south and 45 km east-west (Figure 4-2, Location of Laterites and Mine Permit Boundary). The irregularly-shaped laterite plateaus aggregate approximately 337 square kilometers (130 sq. mi.) within the 1,600 square kilometer Mine Permit area. The named laterite plateaus are (clockwise) Mada, Rapodjombo, North Mang, South Mang, Messea, Kondong, and Nkamouna. The object of this technical report is the Mada area.
+
+Administratively, the project is located in the Haut Nyong Division of the East Province. Mada and the other laterite plateaus (except Kondong) lie within the Lomie Subdivision.
+
+All the laterite plateaus except Kondong lie on the drainage divide between the Dja River to the south and west, and the Boumba River to the north and east. Both rivers are tributaries to the Congo (Zaire) River, which lies 600 kilometers to the southeast.
+
+Lomie is the administrative center of the Subdivision that hosts the project and has been the staging area for Geovic’s activities. Lomie has about 3,500 inhabitants, a limited local electrical supply, and very basic services and supplies. There is no telephone service, airstrip, or approved heliport, and only rudimentary medical facilities. Geovic’s field operations are based from the Kongo Camp, a fully-contained compound near the village of Kongo. The compound has adequate working and sleeping quarters, a diesel generator, satellite-phone facilities, diesel fuel storage, a kitchen with refrigerators, repair shop and sample preparation and storage facilities.
+
+Most inhabitants of the region practice subsistence agriculture (cassava, yams, plantains, bananas, some maize and taro) and supplement their diets with animal protein (“bush meat”) procured by hunters. The latter include monkeys, duikers (forest antelope), pangolin, and certain protected species, as well as snakes and birds. The settled people mainly live in villages along roads. In addition, there are seminomadic forest people of slight stature (“pygmies”) who live in shifting settlements in the forest, in roadside encampments, and also in villages. In the project area, the forest people are referred to as “Baka”, while the settlers are referred to as “Bantu.” All speak languages of the Bantu linguistic family, and are racially indistinguishable except by stature. The dominant languages in the project area are Dzime (spoken by settled Africans) and Baka (spoken by pygmies). French is nearly universal among adults, and some speak a little English since Cameroon is officially bilingual in French and English.
+
+General geographic coordinates for the Geovic Project area are approximately: Longitude N-3º 20´ and Latitude E-13º 50´.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+4.1
+
+Prepared by
+
+Drawing Provided by/Prepared for
+
+PINCOCK, ALLEN & HOLT 165 S. Union Boulevard, Suite 950
+
+GEOVIC Ltd.
+
+Lakewood, Colorado 80228 Phone (303) 986-6950
+
+Project No.
+
+34419
+
+Project Name
+Mada Cobalt 43-101
+
+Nkamouna Project
+
+FIGURE 4-1
+GENERAL LOCATION MAP FOR THE MADA COBALT PROJECT
+
+Date of Issue
+Jun/2006
+Drawing Name
+Fig4-1.cdr
+
+Prepared by Project No.
+
+PINCOCK, ALLEN & HOLT 165 S. Union Boulevard, Suite 950 Lakewood, Colorado 80228 Phone (303) 986-6950
+34419
+
+Prepared for
+GEOVIC Ltd.
+Project Name
+Mada Cobalt 43-101
+
+FIGURE 4-2
+LOCATION OF LATERITES AND MINING PERMIT BOUNDARY.
+
+Date of Issue
+April/2006
+Drawing Name
+Fig4-2.cdr
+
+4.2 Property Area
+
+This Technical Report presents a review of the mineral resources under Geovic’s control, with mineral rights held by Geovic Cameroon under a Mine Permit and administered under a Mining convention. The Mine Permit with an area of 1,600 square kilometers of “multiple use” forestlands, includes an area of 300 square kilometers of “mineral exclusive” lands.
+
+4.3 Location
+
+Geovic’s Cobalt-Nickel Project is located in the Haut Nyong district, East Province of Cameroon, Africa. The Project’s site is 640 kilometers by road from the seaport of Douala, and about 400 kilometers from the capital city of Yaounde. The closest town to the Project site is Lomie, at approximately 33 kilometers to the west – southwest. The closest railroad transport to the Project is at the town of Belabo, at a distance of approximately 240 kilometers. Transportation from Yaounde to the Project is by paved highway to Ayos, improved public road to Abong Mbang and private logging roads or public roads to the project site.
+
+International airports and modern telecommunication facilities exist at Yaounde and Douala. Suitable shipping and receiving facilities exist at the international seaport of Douala.
+
+4.4 Prospecting, Exploration and Mining Rights
+
+In mid-1995 GeoCam received a Prospecting Permit that covered 19,600 square kilometers. In January 1999 the Prospecting Permit was replaced with an Exploration Permit that covered 4,876 square kilometers and specifically allowed exploration drilling. In July 2002 a Mining Convention was executed that defined the general, legal, financial, tax, economic, administrative, customs, social, land and environmental conditions under which GeoCam shall undertake the mining of cobalt, nickel, and their associated substances within GeoCam’s Exploration Permit area. In April 2003 a Mining Permit replaced the Exploration Permit and the area was reduced to 1,600 square kilometers. Figure 4-2 shows the laterite deposits and the Mining Permit boundary.
+
+4.4.1
+
+Project Ownership
+
+The mining rights held by GeoCam, consist of a Mining Permit covering a total surface of 1,600 square kilometers, which includes approximately 337 square kilometers of cobalt-nickel mineralized lands. Most of the Mining Permit lands are zoned “mineral exclusive” lands.
+
+The Mining Convention was signed on July 31, 2002 by the Ministry of Mines, Water, and Power of the Republic of Cameroon. On April 11, 2003, a Mining Permit Decree was issued to GeoCam, covering an area of 1,600 square kilometers. The Mining Permit Decree states the area as 1,250 square kilometers, although the area within the coordinate boundary measures 1,600 square kilometers.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+4.4
+
+Geovic’s participation in the Mining Permit holder GeoCam is 60 percent direct corporate holding by the US-based Geovic, Ltd. In addition, another 0.5 percent is held by Geovic’s founder with 19.5 percent and 20 percent held by SNI, a Cameroon government investment corporation. The 39.5 percent balance is currently held by four Cameroonian individual shareholders.
+
+4.4.2
+
+Mineral Tenure
+
+The Mining Permit will remain in force for the duration of the mineable resource and has an initial term of 25 years. The Mining Permit and Convention are renewable every 10 years thereafter until the depletion of resources.
+
+4.4.3
+
+Property Survey
+
+The boundary of the Mining Permit has been surveyed by Global Positioning Satellite (GPS) carried out by a certified government surveyor. The irregular 18-corner polygon-shaped Mine Permit area is monumented with red painted cement markers that stand about one meter high and are described in the Presidential Degree authorizing the Mining Permit. The Mining Permit is the main operating permit for the commercial GeoCam facilities and is shown in Figure 4-2. Geographic references are listed in Table 4-1.
+
+TABLE 4-1 Geovic Ltd. Mada Project, Cameroon Mine Permit Boundary
+
+GEOGRAPHIC REFERENCES
+
+POINTS
+
+EAST
+
+NORTH
+
+1
+
+13°59’43.7’’
+
+3°15’00.3’’
+
+2
+
+13°47’03 .4’’
+
+3°14’49.6’’
+
+3
+
+13°47’02.5’’
+
+3°29’57.7’’
+
+4
+
+13°58’37.6’’
+
+3°29’56.0’’
+
+5
+
+14°09’21.3’’
+
+3°22’46.6’’
+
+6
+
+14°13’45.9’’
+
+3°22’46.8’’
+
+7
+
+14°13’57.7’’
+
+2°53’46.1’’
+
+8
+
+14°08’11.9’’
+
+2°53’40.0’’
+
+9
+
+13°56’54.8’’
+
+2°49’19.6’’
+
+10
+
+13°56’54.5’’
+
+2°42’41.9’’
+
+11
+
+13°51’41.3’
+
+2°42’24.6’’
+
+12
+
+13°51’05.7’’
+
+2°49’21.6’’
+
+13
+
+13°56’55.3’’
+
+2°49’22.5’’
+
+14
+
+14°08’12.4’’
+
+2°53’41.9’’
+
+15
+
+14°08’10.1’’
+
+3°01’32.3’’
+
+16
+
+14°05’25.0’’
+
+3°05’43.9’’
+
+17
+
+14°05’23.3’’
+
+3°19’27.3’’
+
+18
+
+13°59’43.1’’
+
+3°24’33.7’’
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+4.5
+
+4.4.4
+
+Surface Land Ownership
+
+Fifty-nine percent of the Eastern Province is dominated by forests zoned “multiple-use.” Over 64 logging concessions are designated in the province that surround GeoCam’s “mineral exclusive zone”. A significant portion of the area is also dedicated to protected forests, wildlife reserves and general “evergreen forest” habitat (22%) that are located well away from planned operations. A small proportion of the district is zoned for mineral development (1.6%), part of which includes “mineral exclusive lands” (0.35%). Indigenous community lands dominated by subsistence gardening and “community forest” developments form the remainder of the district lands which covers about 18 percent of the province. These lands are located principally along the main access routes developed when the province was first opened to plantation farming in the late 19th Century. Table 4-2 presents land uses in Southeastern Cameroon.
+
+TABLE 4-2 Geovic Ltd. Mada Project, Cameroon Southeast Cameroon Land Uses
+Land Designation
+Timber Concessions Parks and Forest Reserves Community and Village Lands GeoCam Lands Mine Permit
+Mineral Exclusive (incl.) Land Lease Totals
+
+Square Kilometers
+43,000 12,000 10,000 1,600
+300 10 66,600
+
+Square Miles 16,600 4,600 3,900 617 116
+4 25,717
+
+Percentage
+64.5 17.9 15.2 2.4 0.45 0.02
+
+Lands held within the Mining Permit are designated “multiple-use,” with the principal mineralized areas set aside for “exclusive mine” development. Mining Permit lands were specifically established to exclude village lands and avoid conflicts with local communities.
+Specific sites that will be impacted by mining and mine related activities will be “land leased” and will have “site specific” environmental plans designed and approved by governing agencies prior to mining. This 6-month process requires local government approval, following a review of each site by district leaders. The closest village to the Mada site is Kongo village that is over 15 kilometers (9 miles) from the site, and is well screened from most day-to-day operational noises and activities.
+Any facility will have to be land leased. Port storage and facilities required for transportation to and from project site will also have to be land leased unless sublet or leased from existing companies operating in Douala (SDV and others). Environmental studies and approvals will also include the port facility and the material handling and transport between the port and project site.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+4.6
+
+4.5 Environmental and Permitting
+
+Geovic completed an Interim Environmental Assessment Report in November 2000, with the assistance of URS-Woodward and Clyde. This Report was submitted with the Mining Convention Application in early 2001. In 2004, Geovic commissioned a site specific environmental study of the Nkamouna area, which was performed by the consulting firm Knight Piesold and presented as Environmental and Social Assessment including an Environmental and Social Impact Assessment, and Environmental and Social Action Plan for the Nkamouna area. No site specific work has been performed for the Mada area.
+
+Geovic’s Mine Permit area is totally contained in areas zoned for logging concessions and “multiple use.” All planned mine developments are in logged over areas and are exclusive of “primary forest” designations. Logging concessions cover over 72,000 square kilometers or 37 percent of Cameroon forests. Geovic’s mining operations will result in partial deforestation during the mining phase, which will only represent less than 0.5 percent of the annual deforested area within the region. The Mine Permit contains 300 square kilometers of mineralized rocks.
+
+Geovic’s mining exploration activities have been carried out in an area 25 to 75 kilometers to the northeast and east of the Dja Biosphere Reserve, and within drainage basins isolated from the Dja Reserve, consequently Geovic does not envision direct adverse impacts on the Dja Reserve area.
+
+Principal legislative, regulatory and policy considerations are as follows:
+
+A) Environmental Protection: Law No. 96/12 relating to environmental management outlines the general legal framework for environmental management in Cameroon. The law requires that any development must carry out an “impact assessment study”. The new mining code specifies the bonds are required before mine development can commence. The project’s proposed environmental mitigation and rehabilitation practices are reviewed once every four years to determine if the bond is sufficient to cover annual impacts caused by mining activities. The bond is based on an estimated annual cost of environmental impact mitigation of disturbed sites.
+
+B) Law 94/01(Decree No. 94/436) pertains to forest developments. Article 9 prescribes that cutting trees in a state forest can be performed only after an impact study has been conducted. This study will be carried out as part of Geovic’s “site specific” environmental impact assessment report and environmental rehabilitation plan.
+
+C) Law No. 81-13 regulates fishing, hunting and the issuance of related licenses. Also, the law controls the possession or trade in wild animals and trophy hunting and provides for the protection of endangered species. Enforcement measures and penalties are defined in this law, as described in the Geovic environmental plan.
+
+D) Law No. 89/027 addresses specific waste disposal regulations. It pertains to storage, transportation and disposal of hazardous waste. Businesses must declare the volumes and nature of each waste product and ensure elimination of waste without undue risk to people and the environment.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+4.7
+
+E) Law 84/13 regulates water resources. The government manages and protects state waters such as rivers, lakes and groundwater. Non-state waters include spring, well and drill holes not used by the public, and rainwater falling on private land or collected artificially from roof systems. The use of water for commercial purposes may be granted by the State authority and is subject to permitting, exploitation and conservation taxes.
+Decree No. 85/758 regulates water use by committee. This committee provides advice in implementing the water code that will include issues such as inventory, conservation, protection, use, effluent treatment and taxation.
+4.6 Permits Required for Property Development
+The principal remaining permits required before the initiation of construction include:
+1) Land Lease for development sites.
+2) Environmental Permit and Bond, and
+3) Water Use Permit.
+Geovic will need to develop a site specific environmental study of the Mada area, which will include an Environmental and Social Assessment including an Environmental and Social Impact Assessment, and Environmental and Social Action Plan for the Mada area.
+A certificate of registration will be issued to Geovic and Geovic will pay for the cost and compensation of freeing the lands under the “Long Lease.”
+Geovic will have the right to occupy, build roads, remove vegetation and mine and process cobalt, nickel and related substances covered in the Mining Convention once the land is freed, in accordance to the GeoCam Mining Convention of August 1, 2002.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+4.8
+
+5.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, AND INFRASTRUCTURE
+5.1 Access
+Geovic’s Cobalt-Nickel Project is located in the Haut Nyong Division, East Province of Cameroon, Africa. The Project’s site is 640 kilometers by road from the seaport of Douala, and about 400 kilometers from the capital city of Yaounde. The closest town to the Project site is Lomie, at approximately 33 kilometers to the west – southwest. The closest railroad transport to the Project is at the town of Belabo, at a distance of approximately 240 kilometers. International airports and modern telecommunication facilities exist at Yaounde and Douala. Suitable shipping and receiving facilities exist at the international seaport of Douala.
+Access to the Project site is from the seaport of Douala by a well-maintained provincial highway via Yaounde and Ayos. After Ayos and across the Nyong River, the highway to the Central African Republic deteriorates rapidly to a well-traveled two-lane gravel road to Abong Mbang. Turning south from Abong Mbang towards Lomie, the road narrows and is frequented by log and lumber trucks over the next 127 kilometer distance to Lomie. The road from Lomie to Kongo village supports heavy log and lumber transports, as does the road from Kongo village to the project site.
+From Lomie, the road passes east to the village of Echiambot where it branches northeast to the Edje River and Kongo village. The project site at Mada is located 15 kilometers north of this village. The trip from Yaounde to Kongo village takes about 8 hours by vehicle.
+Transport infrastructure in Lomie includes the Haut Nyong Express that carries people four times per day to Yaounde (18 per bus) and 10 busses per day to Abong Mbang. Motorcycle taxis transport individuals in the Lomie area. Geovic intends to provide, or arrange, scheduled bus and van service between the project and main towns and villages around the project site. Existing roads will be improved and a small, private airstrip will be constructed for flying certain personnel to and from Yaounde or Douala, emergency medical reasons, expediting mail, and delivery of emergency parts and supplies.
+Transportation routes to the project are shown in Figure 5-1.
+5.2 Climate
+The climate of the region is classified as an “Equatorial Guinea” sub-type characterized by two main seasonal types, namely the “main wet” season and “main dry” season, and two minor seasonal types designated as “mini wet” and “mini dry.” The site is located on the northwestern margin of the Congo River tropical zone.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+5.1
+
+Annual maximum monthly temperature ranges from 24° to 33° centigrade. The lowest daily minimum temperature recorded is 12° centigrade, but temperatures normally do not fall below 18° centigrade.
+The average annual precipitation over a 32-year period is 1,580 millimeters and the humidity is typically high and evaporation rates high on an annual basis. Maximum annual precipitation measured to date totals 2,200 millimeters. The main wet season occurs between September and early November, and the main dry season occurs from November to May. The mini wet season lasts about eight weeks in March to May, and the mini dry season extends from June to mid-September. Limited amounts of rainfall occur throughout the year, except during the months of December and January. The average number of rainfree days at site was 229 and days receiving a total of at least 25 mm of precipitation at Nkamouna are 28 per year. Average monthly evaporation rates exceed rainfall during the two dry seasons. Data for 2004 show total precipitation at 1,820 millimeters, evaporation at 1,951 millimeters, for a net evaporation of 131 millimeters. The prevailing wind direction is from the south and southwest, and averages less than 4-kilometers per hour. Wind gusts rarely exceed 8 kilometers per hour, and are commonly undetectable beneath the tree canopy near the proposed Plant site.
+5.3 Vegetation
+The vegetation in plateau areas is typical of an “evergreen equatorial forest” characterized by diverse endemic plant species. The forest area is stratified in three layers, including the 40-meter tall tree canopy characterized by broad-crown diameters and straight limbless trunks; shorter, more slender, fastgrowing, narrow crown-diameter, fragile trees form the intermediate layer; and the scanty undergrowth layer consisting of vines, brush and ferns. Trees of local economic importance include Ayos, Sapelli, Wengive, Iroka, Bubinga, Azobe, and Obeche. Other diverse species occur in swamplands and patches of dense wet-substrate dominated valley floors.
+Recent logging has occurred throughout most of the mineralized areas within the Mine Permit. The extent of this logging is documented on satellite images and by ground surveys. These logging activities are independent of Geovic’s operations and were part of pre-existing timber leases within the Mine Permit area.
+5.4 Physiography
+The central part of the cobalt-nickel mineral district is dominated by a series of rolling upland plateaus that are isolated by several river systems that feed into the main Congo River drainage basin. Elevations in the province range from about 450 meters along the lower Dja River to 927 meters above sea level at Mount Guimbiri, located east of Abong Mbang.
+The Mada deposit is relatively flat. There is a swamp and small depression in the center of the deposit. The deposit is a crescent shape about 8 kilometers from east to west and 14 kilometers from north to south. The perimeter of the deposit has an approximate elevation of 760 meters above sea level, with the lower central depression of 680 meters.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+5.3
+
+The following satellite images, vertical aerial photographs and topographic coverage of the Province are available:
+
+ TOPOGRAPHIC SHEETS
+
+• Abong Mbang, Medoum, Mintom, Ngoila & Nokadouma sheets (1:200,000 scale) • Geovic coverage of the Mada area (1:10,000 scale)
+
+ BLACK AND WHITE PHOTOGRAPHS
+
+• Vertical aerial photographs (1:200,000 scale). Flight lines are numbered on the back of 1:200,000 scale topographic sheets and are not comprehensive (1953-54 coverage).
+
+ SATELLITE IMAGES
+
+• Landsat, USA (1m, 15m and 30m pixel resolution) • SPOT, French (30 meter pixel resolution)
+5.5 Infrastructure
+
+The Project site is located in a remote tropical setting that is characterized by an expanding economy driven primarily by the production of forestry related products and minor production of cocoa and palm oil. Government jobs and non-governmental organizations also contribute to the local economy. Several companies conduct substantial logging operations throughout the region and major sawmills are operated within 115 km of the Project site at Lomie, Messamena, and Mindourou. Approximately 300 truck loads of logs are hauled per day in the East Province by contract trucking companies. The local logging industry uses large, modern equipment and employs numerous equipment operators and maintenance personnel. In addition, the industrial center and port city of Douala has several equipment, service and supply companies that support Cameroon’s industries as well as much of land-locked West Africa.
+
+The town of Abong Mbang, with a population of approximately 30,000, is located at the entrance to the district. It is the provincial headquarters of the Perfect and main administrative and commercial center for the Hyaut Nyong Division. The town hosts a local trade school, service stations (Texaco and TotalElf), hotels, restaurants and rental phone service. It is the main administrative center for the Ministry of Environment and Protection of Nature, and the Ministry of Mining & Technological Development. The nursing school at Lyos, west of Abong Mbang, is the main training center for local nurses.
+
+Lomie is the closest town to the Mada Project site. At present it takes about one hour to drive the 40 kilometers between Lomie and the Project site. The economy of Lomie is largely undeveloped, except for a large sawmill and surrounding timber harvesting operations. Local businesses include the Lomie Subdivision’s government headquarters of the Superfect, police station, hospital (two doctors and eight nurses), parochial schools, shops, general mercantile stores (3) and the Raffia Motel. Most business activity centers around logging and the local saw mill that is located east of town. Other activities include
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+5.4
+
+road maintenance, palm oil production, limited agricultural activities and general commerce. Lomie’s municipality has provided diesel electric power (200kW) to those who can afford it, since 1997. Lomie is the site of a number of domestic and international NGO’s that monitor the World Heritage Dja Biosphere reserve and other reserves within the region.
+Within the Lomie Subdivision, the number of children in the Lomie primary school district total 3,166 pupils, representing 69 percent of school age children in the Subdivision. Primary schools in the Subdivision total 25, headed by 59 teachers (38-government paid/18-private). The local technical school (SAR.SM) has 78 students who are trained principally in rudimentary building skills.
+Messok is the second largest town in the Subdivision and hosts a medical aid station, police station, slabwood constructed motel and a Belgian-based mission school. Kongo village, approximately 2 kilometers from the site of Geovic’s present base camp, is located 32 kilometers east of Lomie. The village population in 1998 totaled about 150 (all names are on the Geovic land lease), and is currently much larger, as is evidenced by the growth of the Geovic funded parochial school.
+Mindourou and Messamena are two sawmill centered towns that have been expanding rapidly, both in population and local infrastructure, as has Lomie and Abong Mbang.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+5.5
+
+6.0 HISTORY
+
+The Mada Project involves a cobalt-nickel-manganese-iron laterite deposit located in southeastern Cameroon, Africa. Mada and several other nickeliferous laterite deposits in southeast Cameroon were first discovered and investigated by the United Nations Development Programme (UNDP) during 19811986, in a cooperative project with the Cameroon Ministry of Mines, Water and Energy to evaluate mineral potential in southeastern Cameroon (UNDP Project CMR/81/005). Following a regional stream sediment geochemical survey which indicated the likely presence of laterite nickel mineralization, the UNDP project drilled eleven core holes in the Nkamouna area, which lies just south of the Mada area and was more accessible at that time.
+
+Several of the UNDP holes at Nkamouna intersected laterite and saprolite with interesting nickel and cobalt values. The first hole, KG-S-1, traversed 56 meters of lateritic profile and fresh serpentinite, with Ni values up to 1.00 percent and Co values up to 0.19 percent. Due to the remote location and the low nickel prices at the time, the discovery did not draw much attention.
+
+No further exploration took place on the property until geologist William Buckovic became aware of the nickel discovery in 1988, subsequent to submitting a proposal in 1986 to explore for minerals to the Cameroon Ministry of Mines. After assaying samples he was able to obtain from the area, Buckovic noted in 1994 the higher than typical Co:Ni ratio that characterizes the Cameroon deposits. This high ratio was confirmed by the assay results from the UN coring program. Buckovic was also aware of recent advances in Australia and elsewhere in the hydrometallurgical processing of previously sub-economic nickel laterite deposits. As a result, in 1995 he helped form a new company, Geovic Cameroon (GeoCam), to investigate this unusual but potentially promising occurrence.
+
+A government-issued Prospecting License covering 19,600 square kilometers was granted in 1995. In 1999, an Exploration Permit, PDR 67, was granted on a reduced area of 4,876 square kilometers. A Mining Convention was entered into between GeoCam and the Republic of Cameroon in 2002. In 2003, Mine Permit 33 was issued by decree granting an exclusive right to Geovic to exploit the deposits within the permitted 1,600 square kilometer area. Geovic’s program initially was based entirely on manuallydug test pits, and later incorporated drilling and limited trenching. The program began at Nkamouna and was later extended to Mada and other laterite plateaus, which were identified by satellite images and air photos. Geologists from the Cameroon Ministry of Mines, Water and Energy participated in the work to provide government oversight as well as training.
+
+Between 1995 and 2003, Geovic carried out extensive pitting at Mada. This work was performed by Geovic employees and consultants. Geological and sampling oversight was provided by Mintec, Inc., of Tucson, Arizona.
+
+6.1 Production History
+
+The Mada property is undeveloped, as are those of the adjacent laterite plateaus.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+6.1
+
+7.0 GEOLOGIC SETTING
+7.1 Regional Geologic Setting
+Southeastern Cameroon lies within a region of metamorphosed Proterozoic rocks ranging in age from 2,500 to 600 million years and extending across parts of several west-central African countries. In southeastern Cameroon, several assemblages of such metamorphic rocks have been mapped and named (Cameroon Direction des Mines et de la Geologie, undated). Due to the metamorphosed nature of the rocks and poor exposures, there is some uncertainty in distinguishing and dating various lithologic units.
+The Geovic project area is mainly underlain by rocks of the Intermediate Series, including the MbalmayoBengbis “Series” or Unit. These rocks are principally chloritic and sericitic schists and quartzites (see Figure 7-1, Regional geology, and Figure 7-2, Regional stratigraphy). Also included in the Intermediate Series are extensive metamorphosed felsic, mafic volcanic and volcaniclastic rocks. These rocks are postEburnean (i.e., younger than 1,800 million years) and are cut by basic dikes. The original depositional age of the sediments was probably 1,800 to 1,400 million years, with metamorphism to almandineamphibolite facies occurring about 1,200 million years ago, likely coincident with the Kibaran Orogeny.
+The schists and quartzites contain inliers of ultramafic rock, which were probably emplaced long after deposition of the original sedimentary rocks. Due to poor exposures, the contact relations are unclear, but the ultramafic bodies appear to be emplaced along north-trending regional fractures, which apparently allowed emplacement of ultramafic rocks of deep-seated origin.
+7.2 Regional Metallogeny
+The region within a 300-km radius of the Geovic Project Area in Cameroon, Gabon, Congo, and Central African Republic has few producing mineral deposits and few with near-term production potential. Most of this region of west-central Africa is underlain by Proterozoic granite-gneiss-schist terrains, broadly similar to the rocks in the Project Area. Within the region, ultramafic rocks, the original source of the cobalt and nickel, are confined to Mada and other parts of the Geovic project area. There has been no previous production of minerals from the project area.
+Alluvial gold is exploited on a small scale from stream gravels in various parts of Cameroon, Gabon, Congo, and Central African Republic. Few statistics are available because all production in the region is from artisanal sources. However, the U.S. Geological Survey’s 2002 estimate for total gold production from all four countries combined is less than 1,600 kilograms, or less than 50,000 ounces per year. The portion of this yield from within a 300-km radius of the Geovic Project is likely on the order of 20,000 ounces per year, a relatively insignificant amount by international comparisons. In the southwest part of the Central African Republic, alluvial gold is accompanied by small quantities of alluvial diamonds in streams which drain Cretaceous sandstone and conglomerates exposed further east. The Cretaceous formations do not extend into Cameroon.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+7.1
+
+CYCLE Age M.A.
+? 500 Pan African Orogeny
+1200 Kibaran Orogeny
+Eburnean Orogeny
+1800 2500 Liberian Orogeny
+
+Lithologies
+Fluvial Deposits
+Fluvial and Lucustrine
+Shales and Chert Marley Limestone
+Red Shales Massive Conglomerates (tillites?)
+
+Series Names
+} Upper Dja Series
+Tillite Complex
+
+Shales Quartzites
+Sandstones Basalts
+Andesites Conglomerates Granites
+
+} Lower Dja Series
+
+}Chloritic and Sericitic Schists
+
+Quartzites
+Ultramafics Mica Schists Amphibolites Mafic Metavolcanics
+
+Units Within Geovic Permit
+
+Felsic Metavolcanics
+
+Area
+
+Intermediate Series Mbalmayo-Bengbis Series Yokadouma Series
+
+Amphibolites Ultramafics Mica Schists Iron Formation
+Diorite
+Gneisses Amphibolites Granulites
+Intrusive Complex Charnockites, etc.
+
+Mbalam Series Aina Unit Ntem Unit
+
+Prepared by
+pincock, allen & holt
+165 S. Union Boulevard, Suite 950
+Lakewood, Colorado 80228
+Phone (303) 986-6950
+
+Project No.
+
+34419
+
+Prepared for
+GEOVIC Ltd.
+Project Name
+Mada Cobalt 43-101
+
+FIGURE 7-1
+REGIONAL STRATIGRAPHY
+Modified from Cameroom Direction des Mines et de la Geologie
+
+Date of Issue
+Jun/2006
+Drawing Name
+Fig7-1.cdr
+
+Felsic Metavolcanics Quartzite
+Schist
+
+Schist
+
+Ultramafic
+
+Schist
+
+Mafic Metavolcanics
+
+Ultramafic Ultramafic
+
+Schist
+
+Schist Mafic Metavolcanics
+
+Felsic Metavolcanics Quartzite
+
+DJA RIVER
+Schist
+
+MMaefitcavolcanics
+
+Mica Schist
+
+Ultramafic
+
+Felsic Metavolcanics
+
+Ultramafic
+
+Mica Schist
+
+Prepared by
+pincock, allen & holt
+165 S. Union Boulevard, Suite 950
+Lakewood, Colorado 80228
+Phone (303) 986-6950
+
+Project No.
+
+34419
+
+Prepared for
+GEOVIC Ltd.
+Project Name
+Mada Cobalt 43-101
+
+FIGURE 7-2
+REGIONAL GEOLOGY
+
+Date of Issue
+Jun/2006
+Drawing Name
+Fig7-2.cdr
+
+Small amounts of alluvial tin and rutile are extracted from streams in the region, also in quantities that are locally important to village economies but are not industrially significant. Artisanal production of sapphire is also locally important.
+
+Deposits of iron ore are reported to exist in south-central Cameroon, north of the Gabon border, but little information is available about these deposits. The UN development program also evaluated several iron ore and limestone deposits. At Belinga in northeast Gabon, a stratiform iron deposit contains several hundred million tonnes of 64 percent Fe, but with high phosphorus content (+0.1% P). This deposit has not been exploited on an appreciable scale.
+
+Limestone deposits occur in the Proterozoic rocks, about 50 km southeast of Lomie. These deposits were drilled by the UNDP in 1981, but they have not been exploited on a large scale.
+
+Building stone, quartzose river sand, clays, flagstone, and pozzolana (volcanic ash), are produced at artisanal scales for local use in Cameroon. Two cement plants are the only sizeable mineral producers.
+
+Otherwise, the mining of non-fuel minerals in Cameroon is in its infancy. Occurrences or resources of bauxite occur in northern and western Cameroon, but an aluminum smelter near Douala processes only imported alumina. There is little in the way of a mining culture or infrastructure in the country at present.
+
+7.3 Deposit Geology
+
+The cobalt-nickel deposits are hosted in residual laterites which have formed by prolonged tropical weathering of serpentinites. Large areas of mineralized laterite, each several square kilometers in extent, have been preserved on low-relief mesas or plateaus that stand above the surrounding dissected lowlands. Mada is one such plateau, which is nearly connected to the Nkamouna plateau. Most of the plateaus are underlain by ultramafic rocks, with some areas of schist, phyllite, and quartzite. The surrounding lowlands are underlain by schists, phyllites, quartzites and meta-volcanics of the Intermediate Series.
+
+The bedrock geology at Mada was mapped by Geovic geologists through a combination of natural exposures, soil mapping, and, most importantly, observation of weathered or fresh rock encountered in pits (Figure 7-3). Mapping of detailed structures, attitudes of foliation or fractures, etc. is generally not practical except in the deeper pits. Rock from pits and rare exposures indicate that the fresh underlying rock at Mada is sheared serpentinite, with inliers of schist, phyllite, and quartzite.
+
+Most serpentinites form from parental ultramafic rocks, as a result of hydration and shearing at moderate temperatures, either during emplacement of the ultramafic or during post-emplacement tectonism. Minor amounts of chrysotile asbestos, a common accessory mineral in serpentinites, are reported from one pit in the Mada area located beneath the mineralized zone. Metasedimentary rocks (quartzmuscovite schist, phyllite, and quartzite) occupy the borders of the serpentinite, and also occur as inliers within the serpentinites. Locally, lateritic soils with schist fragments overlie serpentinite bedrock, due to the gravity-induced creep of soils down-slope. Figure 7-4 shows the deposit stratigraphy.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+7.4
+
+GR 4m UB 2m LB 2m
+FL 15m
+
+Upper Laterite. Dusky purplish-red, powdery clay texture, UL highly magnetic. It is typically barren.
+Upper Ferricrete Breccia. Composed of dusky red sub-
+spherical ferrugenous concretions with cores of yellow, brown,
+UB and black mottling. Contains blocks of harder ferricrete breccia
+in a matrix of UL, especially toward bottom, where it may constitute "Hardpan". Is usually barren of Co and Ni.
+Lower Ferricrete Breccia. Reddish, with shades of black MnO.
+Concretionary, gradational with the overlying breccias, may be
+LB very hard ("Hardpan" toward top. Has a matrix composed of
+Upper Laterite. Generally mineralized with Co, Ni, Mn.
+Lower Limonite / Ferralite. Underlies the ferricrete with sharp
+contact. Mottled, with varied shades of black, yellow, brown, and red. The texture is foliated. Manganese-rich and ferrous ironrich zones are dark gray color. Upper part often minerlized with Co, Ni, Mi, with higher Ni content near base.
+LL
+
+SI 0.5m SP 3m SE >300m
+
+Silcrete. Made up of platy secondary opaline and crystalline
+silica, which are intercalated with clay (green, black, yellow or
+SI red). The presence of this zone is often indicative of a nearby
+water table.
+Saprolite. Green and brownish, sticky clay, with fragments of
+partly weathered serpentinite. Grades into fresh serpentinte
+SP below.
+Serpentinite. Olive green to dark green, very hard, often
+foliated. It is the primary ultramafic source of cobalt and nickel.
+SE
+
+Prepared by
+pincock, allen & holt
+165 S. Union Boulevard, Suite 950
+Lakewood, Colorado 80228
+Phone (303) 986-6950
+
+Project No.
+
+34419
+
+Drawing Provided by/Prepared for
+GEOVIC Ltd.
+Project Name
+Mada Cobalt Project 43-101
+
+FIGURE 7-4
+MADA DEPOSIT STRATIGRAPHY
+
+Date of Issue
+Jul/2006
+Drawing Name
+Fig7-4.cdr
+
+8.0 DEPOSIT TYPES
+
+8.1 Laterite Deposits
+
+The laterite deposits at Mada were formed by prolonged tropical weathering of minerals in an ordinary serpentinite. Laterization is largely a chemical process whereby ground water and biological processes interact on exposed serpentinites, resulting in the concentration of certain elements in the soil profile (e.g., Fe, Al, Co, Ni, Cr, Mn) while dissolving and removing other elements (e.g., Mg, Ca, Si). The intensity of weathering is a function of time, climate, and bedrock characteristics (composition, fracturing, etc). Sulfide minerals are typically not common in serpentinites, and did not play a significant role, if any, in the formation of the enriched cobalt-nickel profiles. This minimal sulfide content is in stark contrast to many other cobalt and nickel deposits such as in the African Copper Belt (Zaire and Zambia), Sudbury, Thompson and Raglan (Canada), Norilsk (Russia), Bou Azzer (Morocco), and others, which were formed by magmatic and/or hydrothermal processes wherein the presence of sulfide minerals is of supreme importance.
+
+Iron is less soluble in the lateritic environment, and is enriched in the zone above the saprolite. The degree of iron enrichment and leaching of silica and magnesia results in the eventual formation of limonite layers rich in goethite that eventually collapses under their own weight to form the capping ferricrete breccias and overlying granular laterite zones. Only in the saprolite and transition zones is iron largely in a reduced state. Clay minerals may form from the weathered serpentinites, and adjacent schists at Mada. Secondary silica and nickel minerals may occur in fractured portions of the serpentinite (e.g., opal and garnierite).
+
+Mada, like Nkamouna and the other Geovic laterites, is unusual with respect to the abundance and coarseness of asbolane; the low Ni:Co ratio, the low MgO content of the Lower Limonite, the abundance of kaolinite instead of smectite, and the presence of a well-developed ferricrete breccia horizon sandwiched between the Upper Laterite and Lower Limonite.
+
+These features are consistent with great age and episodic formation of the Mada profile. Weathering of the ultramafic rocks in Cameroon most likely occurred during Cenozoic time, although precise dating is not possible due to the absence of Cenozoic rocks in the region other than very young alluvium. In any case, while the age of laterization is not well-constrained, it suffices to say that the laterite characteristics at Mada suggest a long period of laterization. Encroachment and incision of the Zaire (Congo) River tributaries (e.g., Sangha, Dja and Boumba Rivers) may have lowered the erosional base levels, as reflected in episodic formation and destruction of the ferricrete and other laterite units.
+
+Though unusual by having several distinct features, the Cameroon laterites share similarities with other nickel-cobalt laterites found around the world (e.g., Western Australia, New Caledonia, Indonesia, Philippines, Cuba). The Cameroon deposits are unusual in their low magnesium content, high cobalt to nickel ratio, coarsely aggregated asbolane mineralization, abundance of maghemite, and occurrence of ferricrete breccias. Also significant is the concentration of most of the cobalt mineralization in the lower
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+8.1
+
+ferricrete breccia and upper portion of the ferralite zone. In other laterite deposits, cobalt is usually concentrated in the lower-most portion of the ferralite and upper saprolite zones.
+The ultramafic rocks that source the Mada mineralization (i.e., sepentinite) originally contained the mineral olivine. The olivine in serpentinites of lower-crust origin typically contain 0.3 to 0.4 percent nickel and near 0.01 percent cobalt, in partial substitution for magnesium in the olivine formula (Mg,Fe,Ni)2SiO4. Upon serpentinization and weathering of the olivine-bearing rock, cobalt and nickel are released as the olivine is destroyed, but are usually re-captured in other minerals formed at the same time, such as asbolane, nontronite clays, garnierite, and others. Other factors tending to localize mineralization include the permeability of the host rock, foliation and fracturing of the basement rocks, and the water table(s).
+The other major constituents of serpentinites, MgO, SiO2, and FeO, are also released by weathering. The FeO is oxidized to Fe2O3 which is highly insoluble, and remains as an iron-rich surficial laterite soil. The MgO and SiO2 are usually mobilized several meters in the percolating water, and are re-deposited at varying distances as clays, silica, and other minerals. Their specific behavior depends on the chemistry and pH of the interacting water and rock.
+Resistant minerals such as chromite and micas if present (e.g., phlogopite and chlorite) tend to remain intact in the weathering profile, and to some degree are concentrated in the weathered residuum, as other constituents are selectively removed. Mafic rocks not containing appreciable amounts of olivine, such as gabbro and pyroxenite, do not normally contain much nickel and cobalt, and thus do not give rise to significant nickel-cobalt enrichment during weathering.
+The cobalt-nickel-bearing weathering profile at Mada has been mostly preserved due to the resistant ferricrete breccia cap and low topographic relief. The surface relief over the Mada laterite deposit is not much more than 90 meters (680-770 meters above sea level), except at the outer margins, where active erosion is occurring and surface elevations locally fall below 700 meters, and where quartzite capped ridges exceed 800 meters.
+8.2 Alluvial Deposits
+Neither Geovic nor PAH are aware of any concentrations of valuable metals in streams draining the ultramafic massifs. While some fine-grained magnetite and black MnO concretions were observed in some streams draining the massif, along with chromite, these occurrences are not present in economic concentrations or tonnages. There is no known panning of gold or platinum-group metals in the region.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+8.2
+
+9.0 MINERALIZATION
+
+9.1 Laterites
+
+Cobalt-nickel mineralization in the Geovic deposits occurs within the weathering profile overlying serpentinized ultramafic rocks. The lateritic weathering profile forms an irregular blanket averaging perhaps 20 meters thick, but the precise average is unknown as only about 13 percent of the pits penetrate to the bottom of the weathering horizon. The mineralized laterite within the profile averages perhaps 4 meter in thickness; again, no precise thickness measurement is possible because 40 percent of the pits stopped in breccia and 47 percent of the pits stopped in ferrralite. The laterite blanket lies generally parallel to the rolling topography of the Mada plateau. The top is relatively smooth on top, but the bottom is more irregular, as weathering has locally penetrated downward into fractures and shear zones in the underlying serpentinite.
+
+Most of the economic mineralization in each deposit is in one interval, typically made up of 1 to 3 meters of ferricrete breccia, underlain by 2 to 4 meters of ferralite. The ore types are characterized geologically by their mineral content, bulk composition, and texture, as described below. The deposit’s unusual concentration of the coarsely aggregated ore mineral asbolane is highly significant, as is the thick ferricrete breccia.
+
+9.1.1
+
+Laterite Stratigraphy
+
+Mada and the other Cameroon laterite profiles, similar to those elsewhere in humid tropical environments, show a strong vertical zonation, which reflects the transition from unweathered host rock at the base, to highly-leached residues at the surface. The Cameroon laterites depart from the norm somewhat, in possessing two layers of iron-rich laterite, between which lies ferricrete breccia, with mineralization concentrated at the base of the ferricrete breccia and the top of the ferralite portion of the laterite profile. The lower portion of the profile under the breccia includes the limonitic ferralite and underlying saprolite zones which are more typical of humid tropical laterite profiles.
+
+The typical sequence of discernable horizons in the weathering profile at Mada is described below in Table 9-1 (modified from Geovic report data) and illustrated in Figures 7-3 and 7-4. The terminology and abbreviations of these units have varied somewhat since 1995, with the currently-preferred terminology being shown first.
+
+Further descriptive details about these units are below, modified slightly from Geovic descriptions. Most of the Geovic reports refer to Nkamouna material, but perusal of logs from Mada show a similar stratigraphy.
+
+Upper Laterite. (UL). A purplish-red, highly magnetic, powdery clay-like soil. Ubiquitous, normally 4 to 8 m thick, except where removed by erosion at the borders of laterite plateaus. This unit will be easy to excavate for completing test shafts and for mining.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+9.1
+
+Ferricrete Breccia. Beneath the Upper Laterite is a nearly ubiquitous horizon of ferruginous concretions, ranging in size from pisolites one or two centimeters (cm) across, to blocks larger than a meter (m) across. Large blocks have complex structures, characterized by multiple stages of brecciation, with vesicular, tubular structures, and amoeboid shaped cavities. They are composed of agglutinated pisolites and angular ferricrete fragments, with some limonitic matrix. Ferricrete fragments are typically dark red outside and varicolored on fresh surfaces. Where the blocks were large enough to impede deepening of pits, the ferricrete breccia was formerly referred to as “Hardpan” (logging unit HP). The ferricrete breccia averages 6 to 8 meters thick, and was often divided into two or three units by project geologists.
+The Upper Ferricrete Breccia (UB) is typically pisolitic and relatively low in Co and Ni except locally where stained with black Mn oxides.
+Hardpan (HP) is the most highly-cemented ferricrete breccia and is very difficult to penetrate with hand tools. It forms outcrops in some areas, particularly at the borders of the lateritic plateaus, and averages 2 m thick. Where present, it grades upward and downward into UB and LB, respectively.
+The Lower Ferricrete Breccia (LB) consists of reddish concretions, with abundant black Mn oxides, texturally similar to UB, with a matrix of Ferralite (FL). It is typically 1 to 2 m thick, and contains up to 1.5 percent cobalt where concretion-like aggregates of asbolane occur. It is hard to dig with hand tools.
+Ferralite (FL). Limonitic laterite, sometimes pulverulent, mottled, with varied shades of black, yellow, brown, red. Often foliated, reflecting relict serpentinite textures. Thickness varies but averages approximately 4 m. Consistently mineralized with good metal grades near the top (e.g., up to 0.76% cobalt) where black Mn zones occur, moderate to low Co grades lower in the unit. The MgO content is very low, averaging about 0.5 percent MgO, part of which is present as non-reactive MgO in spinel (i.e., magnesian chromite). This unit is easy to moderately easy to excavate for completing test shafts and for mining.
+Silcrete (SI). This highly-discontinuous unit may lie at the boundary between the Ferralite and the upper Saprolite. Silcrete is composed of subhorizontal plates of white to grey silica, intercalated with varicolored clays. Commonly has low metal contents and is very hard to dig. It is generally interpreted to mark a former water table. Silcrete is very rare at Mada, as compared to Nkamouna, having been abundant enough to log only in one meter at the bottom of Pit 345.
+Saprolite zone (SP). Composed of green, sticky clay with less than 50 percent fragments of partly weathered serpentinite, grading downward into foliated, fractured serpentinite. May have silica-filled steep fractures. Relatively poor in Co, often rich in Ni. Averages 1.5 m thick. Moderate to hard digging. Saprolite typically contains less than 40 percent Fe and elevated MgO (15 to 30 percent).
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+9.2
+
+TABLE 9-1
+
+Geovic, Ltd.
+
+Mada Project, Cameroon
+
+Laterite Stratigraphy, Modified Slightly from the Nkamouna Stratigraphy
+
+Horizon
+
+Alternate/Former
+
+Lithology
+
+Dominant Mineralogy
+
+Names
+
+Organic Soil
+
+- - Mainly organic - -
+
+Upper Laterite (UL)
+Ferricrete Breccia (UB, LB,HP)
+Ferralite (FL)
+Silcrete (SI)
+Saprolite (SP)
+Serpentinite Bedrock
+
+Upper Clay, Upper Limonite (UL), Granular Zone (GL)
+Upper Ferricrete Breccia (UB), Lower Ferricrete Breccia (LB), Hardpan (HP), Breccia (FB) Lower Limonite (LL) Transition Zone
+Saprolite Clay
+Serpentine
+
+Red, finegrained, pulverulent to pisolitic
+Iron oxides; indurated, brecciated, vuggy
+
+limonite, hematite, maghemite, clays
+limonite, hematite, maghemite, some asbolane
+
+Brown, finegrained, Hard, platy silica
+Weathered serpentinite, clays, silica Sheared, soft rock
+
+clays, limonite, hematite, some asbolane quartz, chalcedony, limonite, clays, serpentine, silica
+serpentine, silica, talc?
+
+Approx % Fe low
+40-50
+
+Co Content near zero
+low
+
+Ni Content near zero
+low
+
+Comments
+usually < 15cm, not logged partly magnetic
+
+40-50
+
+high near base
+
+low
+
+may contain schist fragments & gibbsite
+
+20-35 10-20? 10-20
+
+high near top low
+
+high near base
+low
+
+low high
+
+may contain schist fragments & gibbsite
+usually absent at Mada
+
+5-10
+
+very low
+
+very low
+
+schist or quartzite, may be present instead
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+9.3
+
+Serpentinite (SE). Bedrock, olive green to dark green, may be fractured and fissile, with silica-filled fractures. Uniformly low metals grades except in rare cases where garnierite-like nickeliferous silicates fill fractures. Relatively hard. Magnesium grades at Mada and Nkamouna are typically greater than 35 percent and iron contents are usually less than 10 percent
+Water Table. The depth to the water table was not recorded in the Mada pits. However, Mada is characterized by several swampy areas, and the water table is generally not very deep, this being the reason that only a few pits at Mada reached bedrock or even saprolite.
+
+9.1.2
+
+Laterite Mineralogy
+
+The minerals of economic interest in the Nkamouna laterites are shown on Table 9-2. Although fewer formal mineralogical studies have been undertaken at Mada, comparisons of the two deposits strongly suggest that the mineralogy is very similar. Of the minerals listed in Table 9-2, most occur in the majority of nickel-cobalt laterites worldwide, in proportions which vary widely from one laterite horizon to another, and from one deposit to another. In general, these minerals occur as fine-grained clay-like or concretionary masses, and are only occasionally identifiable as discretely visible mineral specimens. One exception is gibbsite, which may occur as mammilary masses or vug-fillings of radiating transparent to milky white crystals several millimeters long. Of great significance is the size of asbolane agglomerates and wad that host the cobalt and almost all of the manganese.
+
+Table 9-2 incorporates data from various Geovic reports, and from the PMET report (2002).
+
+Asbolane
+The key mineral in the Geovic deposits, which hosts the cobalt, most of the manganese, and a significant part of the nickel, is asbolane. Between one-third and one-half of the deposit’s nickel is hosted in asbolane (see PMET Mineralogical Report, 2002).
+This mineral is sometimes referred to as “asbolan” or “asbolite” in the scientific literature, or “wad” or “cobalt wad” as field terms. Asbolane is widespread in nickeliferous laterites, but elsewhere is usually present in very small amounts and is normally inconspicuous as black blebs on fractures. Individual asbolane crystals have hexagonal symmetry, a Mohs hardness of 6, and are very dark in color. Typically, individual crystals are rarely visible to the naked eye or a hand lens; rather the mineral forms blackish patches or crusts on fractures and cavities. The asbolane occurrence at Nkamouna is unusual in that it occurs as both discrete platy crystals and in larger and coarser crystal aggregates and fine-grained wad up to 5 cm in diameter, sometimes as concretion-like nodules with chromite and goethite. It also occurs as a fine intergrowth with Cr and Fe oxides and hydroxides (PMET Report, Nov. 2002).
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+9.4
+
+TABLE 9-2
+
+Geovic, Ltd.
+
+Mada Project, Cameroon
+
+Selected Minerals in Laterite Profile (based on minerals known to occur in adjacent Nkamouna deposit)
+
+Name
+
+Mineral Type
+
+Formula
+
+Origin
+
+Typical %Co
+
+Abundance in Co-rich
+
+material
+
+asbolane (“wad”)
+ernienickelite
+“limonite”
+
+hydrated oxidehydroxide
+hydrated oxide
+oxide-
+
+(Co,Ni)1-y (MnO2)2-x(OH)22y+2x.nH2O NiMn3O7·3(H2O) fine-grained mixtures of
+
+weathering
+weathering weathering
+
+10-15
+low Co, high Ni 0.0X-0.3
+
+6%
+reported*, not confirmed 60-70%
+
+hydroxide
+
+goethite FeO.OH,
+
+lepidocrocite FeO.OH,
+
+goethite
+
+hematite Fe2O3; others see “limonite”, above
+
+see limonite
+
+hematite maghemite
+
+oxide oxide
+
+carolite, kerolite, garnierite nontronite
+montmorillonite
+kaolinite
+
+silicates, mineraloids
+silicate clay (smectite gp.) silicate clay (smectite gp.) silicate clay
+
+gibbsite
+
+hydroxide
+
+silica, quartz
+
+silicate
+
+serpentine
+
+silicate
+
+talc silicate
+
+Fe2O3 gamma-Fe2O3 (ferromagnetic) approx formulas (Mg,Ni)SiO3.nH2O
+Na0.33(Fe,Ni)2 (Si,Al)4O10(OH)2.nH2O Na0.33(Al,Mg)2 Si4O10(OH)2.nH2O Al2Si2O5(OH)4,
+Al(OH)3
+SiO2
+(Mg,Fe,Ni)3Si2O5(OH)4
+Mg3Si4O10(OH)2
+
+weathering weathering
+weathering (rare)
+weathering (rare)
+weathering (rare)
+weathering of adjacent schists
+weathering of adjacent schists
+weathering, remobilization late magmatic
+
+0.00X 0.00X
+0.0X Co, high Ni
+0.X, 0.X to X Ni
+low
+0
+0
+0
+0.01 Co, 0.3 Ni 0
+
+3% incl maghemite incl in hematite
+reported*, not confirmed
+reported*, not confirmed
+reported, not confirmed
+9% in bulk sample
+1%
+5%
+<1%
+<1%
+
+magnetite
+chromite olivine
+
+oxide
+oxide (spinel) silicate
+
+Fe3O4 (ferromagnetic)
+FeCr2O4 (Mg,Fe,Ni)2SiO4
+
+magmatic
+magmatic magmatic
+
+0.00X
+0 0.01 Co,
+0.3 Ni
+
+8% (incl. chromite)
+See magnetite
+<<1%
+
+Maximum occurrence
+LB, LL
+? UL, LL
+see limonite
+UL, UB, LB, LL UL, UB, LB, LL
+saprolite
+saprolite
+saprolite
+all
+UL, UB, LB, LL
+saprolite, serpentinite
+saprolite, serpentinite
+saprolite, serpentinite all, max in UL
+all, max in UL rare in serpentinite
+
+Pincock, Allen & Holt 34419 February 17, 2007
+
+9.5
+
+There is no theoretical fixed Co or Ni content for asbolane because the formula of (Co,Ni)1-y MnO2)2x(OH)2-2y+2x.nH2O allows for substitution among Co, Ni, and Mn to reflect the chemistry of formation waters, and to achieve charge balance. The Co:Ni ratio in asbolane at Nkamouna ranges from 1:1 to 10:1 (expressed as stoichiometric oxides) and averages about 2:1 (PMET, 2002). “Asbolite” from Soroako, Indonesia (Evans, et al., page 46) shows a range of compositions ranging from 2.5 percent Co to 5.8 percent Co, and averaging (in the limonite zone) Co:Ni 3.3:1. The Soroako and PMET analyses also report large amounts of Fe, so it is possible that the samples were not pure asbolane. Analyses of asbolane samples from Nkamouna range from 6.3 to 19.5 percent CoO. The asbolane component of the Nkamouna bulk mineralogy modal analysis expressed as a weight percent ranges from 3.2 to 7.2 percent (see PMET Report, 2002).
+Asbolane is critical to the project economics, because it occurs as coarser aggregates of microscopic crystals, the aggregates being separable by crushing and wet screening from the pulverulent iron-oxide minerals and clays. The resulting coarse fraction contains most of the Co and Mn, and a significant portion of the Ni in the raw material, resulting in a significantly upgraded concentrate prior to leaching.
+Clay Minerals
+Kaolinite is the most abundant clay mineral at Mada and Nkamouna (see Table 3-2), according to the PMET report (2002), which shows that bulk samples of potentially processable material contain 9 percent kaolin on average. According to Lambiv (2005), kaolinite occurs throughout the weathering profile at Mada and Nkamouna. This abundance of kaolinite is not typical of nickel-cobalt laterites, which normally give rise to magnesia-rich, alumnia-poor smectites in at least small quantities. Smectite clays were not reported by PMET or by Lambiv. Kaolinite, by contrast, does not usually form by weathering of ultramafic rocks, which have very low alumnia contents (see Gleeson, et al., 2003, and articles in Evans, et al., eds., 1979). It is possible that the abundant kaolinite at Mada and Nkamouna arose from weathering of the adjacent Proterozoic schists, and was laterally transported so as to become admixed with typical ultramafic-laterite minerals. More information on the origin of the kaolinite would be interesting, although in any case the kaolinite does not contain cobalt, and does not appear likely to influence mining or metallurgical processes.
+Other Minerals
+Serpentinites and other ultramafic rocks typically have very low aluminum content. At Mada and Nkamouna the weathering of aluminum-bearing minerals in the schists - principally micas and feldspars gave rise to mobile aluminum ions which migrated laterally and vertically and precipitated to form gibbsite, Al(OH)3. Gibbsite is locally abundant at Mada and Nkamouna but also occurs in many ultramafic-derived laterites worldwide. The PMET mineralogical report revealed that gibbsite composes on average less than 1 percent of the bulk mineralogy.
+
+Pincock, Allen & Holt 34419 February 17, 2007
+
+9.6
+
+Comparison with Other Deposits
+While Mada is clearly a laterite, formed by in-situ weathering of ultramafic rock, several features distinguish it from most of the known wet-tropical nickel laterites.
+From the earliest exploration stages it was recognized that Mada and Nkamouna display an unusual laterite stratigraphy, mainly with regard to the presence of abundant ferricrete breccia within the laterite sequence. In most laterites worldwide, ferricrete, if present, occurs at the surface or beneath a surficial ferricrete breccia (“canga”). At Mada and Nkamouna, the ferricrete is well-developed, and is sandwiched between the Upper Laterite and the Ferralite.
+The data in Table 9-3 indicate that Mada is highly atypical in its low Ni:Co ratio. Mada is valued mainly for its cobalt, and only the high-cobalt portions of the weathering profile are included in the defined resource. Mada’s Ni:Co ratio of 2.0-2.4 is far lower than that of any of the other deposits worldwide, and even slightly lower than Nkamouna. It should be noted, however, that the other deposits in Table 9-3 are valued for nickel, with or without by-product cobalt, and the resource figures therefore refer to the high-nickel portion of the weathering profile. Because the highest cobalt values and the highest nickel values are often in a separate level of the profile, the Ni:Co ratios are not strictly comparable.
+As mentioned above in the section on Clays, Mada has abundant kaolinite, a mineral not normally indigenous to nickel-cobalt laterites. It is not clear at this point how much kaolinite is in the Mada profile, but it is likely similar to that at Nkamouna.
+The presence of the internal ferricrete breccia, the unusually low Ni:Co ratios, and the likely presence of kaolinite, all suggest that the Mada laterites were formed by several generations of discontinuous laterization. Decipherment of the weathering history is beyond the scope of this report, but is sure to be elucidated by ongoing investigations.
+
+Pincock, Allen & Holt 34419 February 17, 2007
+
+9.7
+
+TABLE 9-3
+
+Geovic, Ltd.
+
+Mada Project, Cameroon
+
+Lateritic Nickel-Cobalt Deposits World-wide
+
+DEPOSIT
+
+COUNTRY
+
+STATUS
+
+BEDROCK
+
+GEOL. TYPE+
+
+Mada
+Nkamouna high-cobalt horizon Nkamouna high-nickel horizon (LL) EXMIBAL
+Moa Bay
+Nicaro
+Musongati
+Nickel Mountain Soroako
+
+Cameroon Cameroon
+Cameroon
+Guatemala Cuba Cuba Burundi Oregon, USA Indonesia
+
+Bonao
+
+Dominican Rep.
+
+Greenvale
+
+Qld, Australia
+
+Murrin-Murrin Goro
+
+Western Australia
+New Caledonia
+
+exploration serpentinite
+
+Prefeasibility
+
+sheared serpentinite
+
+feasibility
+
+sheared serpentinite
+
+former producer producing
+producing
+undevel.
+former producer producing
+producing
+former producer producing
+
+peridotite, serpentinized
+peridotite, serpentinized
+sheared serpentinite
+peridotite, serpentinized
+peridotite, not serpentinized.
+peridotite, variably serpentinized
+peridotite, sheared serpentinite
+peridotite, serpentinized
+
+construction peridotite, serpentinized
+
+oxide+= silicate oxide + silicate
+oxide + silicate
+oxide + silicate oxide
+oxide + silicate oxide + silicate silicate
+silicate
+silicate
+clay?
+clay
+oxide + silicate
+
+NI/CO RATIO,
+ORE *2.0-2.4
+3.0
+
+PROCESS
+sulfurous acid leach proposed sulfurous acid leach proposed
+
+METALS RECOVERED
+Co+Ni (+Mn) planned Co+Ni (+Mn) planned
+
+COMMENTS
+this report subject of previous PAH report
+
+est. 6 to 8
+
+--
+
+none planned
+
+possible later development
+
+25 smelting to Ni-S Ni
+
+project idle
+
+matte
+
+10 acid leach
+
+Ni, Co in sulfide in production
+
+15
+
+ammonia leach
+
+Ni in oxide
+
+in production
+
+30 --
+
+Ni, Co
+
+pre-feasibility stage
+
+80 smelting to
+
+Ni + Fe**
+
+ferronickel
+
+20? smelting to Ni-S Ni
+
+matte
+
+fossil deposit, mined out
+in production
+
+35 smelting to ferronickel
+
+Ni + Fe**
+
+in production
+
+15
+
+ammonia leach
+
+Ni, Co in
+
+sulfide
+
+13 high-pressure acid Ni, Co
+
+leach
+
+12 high-pressure acid Ni, Co
+
+leach
+
+mined out
+in production
+production scheduled for 2007
+
+NOTE:
+
+Manganese is not recovered commercially at any of these operations. + Classification of Gleeson, et al, 2003 * ratio in the Mada resource at 0.12% Co cutoff ** The Fe recovered in ferronickel is not a paying product Table compiled from numerous sources, including Gleeson, et al. (2003), Evans, et al (1979), Boldt (1968), and others.
+
+Pincock, Allen & Holt 34419 February 17, 2007
+
+9.8
+
+10.0
+
+PROJECT EXPLORATION
+
+Nickeliferous laterite deposits in southeast Cameroon were first discovered and investigated by the United Nations Development Programme (UNDP) during 1981-1986, in a cooperative project with the Cameroon Ministry of Mines, Water and Energy (UNDP Project CMR/81/005). Following a regional stream sediment geochemical survey which indicated the likely presence of laterite nickel mineralization, the UNDP project drilled eleven core holes in the Nkamouna area, which was the most accessible laterite area at that time.
+
+Several of the UNDP holes intersected laterite and saprolite with interesting nickel and cobalt values. The first hole, KG-S-1, traversed 56 meters of lateritic profile and fresh serpentinite, with Ni values up to 1.00 percent and Co values up to 0.19 percent. Due to the remote location and the low nickel prices at the time, the discovery did not draw much attention.
+
+In mid-1995 GeoCam received a Prospecting Permit that covered 19,600 square kilometers. In January 1999 the Prospecting Permit was replaced with an Exploration Permit, PDR 67, that covered 4,876 square kilometers, including the Mada and Nkamouna areas, among others. Geovic’s program initially was based entirely on manually-dug test pits at Mada and elsewhere, although it later incorporated drilling and limited trenching at Nkamouna. Geologists from the Cameroon Ministry of Mines, Water and Energy participated in the work to provide government oversight as well as training.
+
+A Mining Convention was signed on July 31, 2002 by the Ministry of Mines, Water, and Power of the Republic of Cameroon that defined the general, legal, financial, tax, economic, administrative, customs, social, land and environmental conditions under which GeoCam shall undertake the mining of cobalt, nickel, and their associated substances within GeoCam’s Exploration Permit area. On April 11, 2003, Mining Permit No. 33 which replaced the Exploration Permit was issued by decree granting an exclusive right to GeoCam to exploit the deposits and the area was reduced to 1,600 square kilometers, which includes approximately 300 square kilometers of cobalt-nickel mineralized lands.
+
+Geovic’s participation in the Mining Permit holder GeoCam is 60 percent (direct corporate holding by the US-based Geovic, Ltd.). An additional 0.5 percent is held by Geovic’s founder. The 39.5 percent balance is currently held by four individual Cameroonian shareholders with 19.5 percent, and 20 percent by SNI, a Cameroon government investment corporation.
+
+By 2003, Geovic had largely completed the pitting program at Mada. Much more intensive work was carried out on the nearby Nkamouna plateau, due to the better access there utilizing recent logging roads.
+
+The geological logging is consistent with that described in Section 7, Laterite Stratigraphy. The logging scheme has evolved during the history of Geovic’s work since 1995. All logging was carried out at the pit or drill site by degreed geologists, using standardized logging forms.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+10.1
+
+11.0
+
+DRILLING
+
+Because the Mada deposits are secondary, which represent the decomposition products of bedrock, they present the data-generation issues which are typical of laterites: sampling of intermixed material which ranges from very soft to very hard, and which varies greatly in metal grade from one particle to the next, especially in the ferricrete breccia lithologies.
+
+Geovic has described the methodology of collecting and handling samples in great detail, based on Geovic Cameroon procedures and on systematic analysis of various sampling and sample-processing methods.
+
+No drilling has been conducted at Mada. All samples have been obtained by developing pits or shafts of a nominal 1.25 meter diameter.
+
+11.1
+
+Sample Openings
+
+All of the sampling at Mada has been by pitting. Between 1995 and 2003, 322 pits were dug in the broader Mada area, including a few on the nearby plateau. Previous Figure 7-3 shows the location of the pits. Mada was referred to as “Kongo” in the earlier reports, and what is now called the Rapadjombo plateau was initially included in the Mada statistics.
+
+TABLE 11-1 Geovic, Ltd. Mada Project, Cameroon Sampling Pits
+MADA Mada area total Pit used in resource calculations
+
+No. Pits 329 296
+
+Only 13 percent of the Mada pits were logged as penetrating the entire profile, reaching bedrock (e.g., schist, quartzite, or serpentinite), and only about 1 percent of the pits within the Mada deposit intersected basement serpentinites. Many of these 13 percent reached schist outside the ultramafic Mada body and serve to delineate the limits of the Mada deposit. A small portion of the pits dug in the early years did not have the lithology logged and were not assayed.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+11.1
+
+12.0
+
+SAMPLING METHODOLOGY
+
+The pitting techniques are described in considerable detail by Geovic (2003) and Burcham (2003). PAH observed sampling and processing at the adjacent Nkamouna deposit during the period September 1-3, 2004, but no pitting activity was in progress at Mada at that time or subsequently.
+
+The sample bags normally used by Geovic were white double-thickness polyester, with a drawstring at the neck and a label sewn inside the neck. The geologist wrote the sample identifier on the inside label and on the outside of the bag, with a permanent marking pen.
+
+12.1
+
+Pit Sampling
+
+Sampling at Mada was entirely from pits, dug by local labor crews using simple hand tools. A standard pitting crew (at Nkamouna), consisting of two people, is shown in Figure 12-1. A Nkamouna pit photo is presented as Figure 12-2. The standard equipment for a crew consisted of hard hats, a steel pry bar, a bucket, rope, a shovel handle or scoop, and steel-toed rubber boots and a harness. Each pit is normally circular in section and 1.25 meters in diameter, although the diameter may vary slightly.
+
+Spoil not included in the sampling program from the pit was deposited in piles around the pit, but was not rigorously segregated by depth interval. Changes in texture (breccia, limonite) or conspicuous changes in color warranted segregation. A sample was collected each meter by cutting a rectangular groove in one wall of the pit, measuring 10 by 5 centimeters. When more than one sample was collected from an interval concurrently, they were oriented following the main cardinal compass points (N, E, W, S). Each pit was visited once or several times daily by a geologist to log geology, check channel progress, collect the samples from the intervals extended in his absence, and to decide whether to continue digging.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+12.1
+
+Two-man pitting crew with basic equipment; hard-hat, boots, steel bar, rope, harness for descending and ascending the pit if the walls are rendered slippery by precipitation.
+
+Prepared by
+pincock, allen & holt
+165 S. Union Boulevard, Suite 950
+Lakewood, Colorado 80228
+Phone (303) 986-6950
+
+Project No.
+
+34419
+
+Prepared for
+GEOVIC Ltd.
+Project Name
+Mada Cobalt Project 43-101
+
+FIGURE 12-1
+TWO-MAN PITTING CREW WITH BASIC EQUIPMENT (Pit in Foreground)
+
+Date of Issue
+Jul/2006
+Drawing Name
+Fig12-1.cdr
+
+Indentations in far pit wall are access footholds for pitting crew.
+
+Prepared by
+pincock, allen & holt
+165 S. Union Boulevard, Suite 950
+Lakewood, Colorado 80228
+Phone (303) 986-6950
+
+Project No.
+
+34419
+
+Prepared for
+GEOVIC Ltd.
+Project NMamae4d3a-1C0o1baRltePporortject
+
+FIGURE 12-2
+PIT, SHOWING PRIOR DRILLHOLE IN FAR CORNER & FOUR ADDITIONAL
+SAMPLING CHANNELS
+
+Date of Issue
+April/2006
+Drawing Name
+Fig12-2.cdr
+
+13.0
+
+SAMPLE PREPARATION, ANALYSIS AND SECURITY
+
+13.1
+
+Sample Preparation
+
+Geovic maintains a sample-preparation facility at the Kongo Camp, where samples from Mada were prepared for assay. PAH reviewed the procedures in detail.
+
+Upon arrival from the field in polyethylene woven bags, the samples were stored in a sheltered locality until processed. As each bag was opened, the sample was placed in a steel tray for drying, and an aluminum tag bearing the information on the sample bag placed on the tray. After drying, the sample was quartered and placed in a clearly labeled plastic bag, with the location and interval. Another aluminum tag was prepared which accompanied the sample, all the way to arrival and re-coding of samples in the U.S. The aluminum tag placed in the steel tray before oven drying remains with the backup sample on the shelves in the warehouse.
+
+Drying of samples was accomplished in a wood-fired oven. The temperature was not recorded, but appears to be in the vicinity of 100°C, plus or minus 20 degrees. Samples were examined manually from time to time to determine the degree of dryness, and normally after six or seven hours were judged to be sufficiently dry for further processing.
+
+Upon removal from the oven and cooling, each sample was inspected visually for oversize material (coarser than approximately 2 centimeters). Oversize material was manually crushed in a mortar and pestle and returned to the sample tray. At this point, the dried sample was reviewed again by a geologist to ensure that the on-site logging did not miss important features due to poor light, etc.
+
+The sample was then split in a Jones-type riffle splitter with openings measuring 10 mm. Normally a 200-gram dried sample was weighed and bagged for shipment to the assay lab. All remaining reject was bagged and stored at Kongo Camp.
+
+The shipment of samples follows JORC (Australian) procedures regarding chain of custody. Samples were shipped by vehicle to Geovic’s office in Yaounde, the capital of Cameroon, whence they were delivered to a common carrier for air-freighting to North America.
+
+From 1995 until early 1999, Geovic contracted the Ministry of Mines’ geologists and engineers to oversee the Quality Assurance/Quality Control for Cameroon samples. In late 1999-2001, Geovic contracted R.K. Duncan & Associates, a laterite Q.P. out of Perth, Western Australia to oversee the QA/QC for the latest Mada sampling program. All but the later 64-samples were sent to Bondar-Clegg (Intertec Testing Services, No. Vancouver, British Columbia) for assaying cobalt, nickel and some chromium and manganese. Bondar-Clegg pulverized the samples to minus-150 mesh, then inserted duplicates and standards into the sample stream before analysis. The last 64-samples were handled by Mintec who provided blind sample numbering, and insert duplicate, standards, and blanks into the sample stream prior to analysis by Actlabs of Tucson, Arizona.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+13.1
+
+It was apparent to PAH that Geovic personnel, R.K. Duncan & Associates, and Mintec, Inc.paid close attention to sampling and sample-processing techniques, and have varied the techniques from time to time, based on careful analysis of results, including comparisons between different methods. PAH believe that the collection and handling of Mada samples meet or exceed industry standards for laterite projects, and that any limitations on precision and accuracy of samples are those limitations inherent in the laterite deposits themselves and in assaying technology.
+
+13.2
+
+Assaying
+
+During 1995-2003, Geovic shipped 3,201 Mada pit samples to Bondar-Clegg in No. Vancouver, British Columbia and Actlabs in Tucson, Arizona for processing and assay for cobalt, nickel, chromium and manganese.
+
+On average, Bondar-Clegg who analyzed most of the Mada samples (1995-2001), used 530 standards (17%), and 250 duplicate pulp analyses.
+
+Actlabs, under the direction of Mintec, Inc. analyzed 64 Mada in-fill samples for cobalt, nickel, and manganese. Their results were consistent with the earlier Mada geology and analyses.
+
+Bondar-Clegg initially used 3-acid digestion of samples (HF, HCl, &HNO3) and “low-level” AAS in 1995. Later, Bondar-Clegg used 4-acid digestion (HF, HCl, HNO3, and HClO4) with ICP analyses (1999-2001). Actlabs used 3-acid digestion and ICP analyses. Geovic switched to Actlabs in 2002 in order to pay for one-half of the analyses with a U.S. Trade and Development Agency (USTDA) loan, requiring a certified, U.S. based laboratory.
+
+13.2.1
+
+Sample Preparation for Assaying
+
+The samples received at Bondar-Clegg and Actlabs were dried for 24 hours at 150°C before analyses. According to the mineralogical literature on asbolane, there should be no loss of chemically combined water or hydroxyl ions below 150°C. Thus the subsequent assays reflect intact dry asbolane, which was lacking only any loosely-bound water that is not included in the calculated dry tonnes of mineral resource.
+
+13.2.2
+
+Laboratory Qualifications
+
+Both Bondar-Clegg and Actlabs’ facilities are accredited to ISO/IEC-17025 and CAN-P-1579 (Canadian) standards, and are thus fully accredited as a commercial mining assay laboratory.
+
+13.2.3
+
+Laboratory Methods
+
+Following the drying at Bondar-Clegg and Actlabs facilities, as discussed above, pulps of Geovic samples were digested in a 3-acid solution and 4-acid solutions and analyzed primarily by the ICP-OES
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+13.2
+
+(Inductively Coupled Plasma Optical Emission Spectrometry) method for Co, Ni and Mn. The 3-acid digestion is normally sufficient to dissolve all minerals typically present in the Mada samples.
+
+Various other appropriate methods were used for occasional analyses of 34 other elements (Pb, Zn, Cu, Cr, V, Mg, Al, Sc, Zr, etc.) for bulk samples and other specialty samples. The multi-element analyses by ICP methods were not included in the Mada resource estimate since most samples were reanalyzed later using a 4-acid digestion and ICP.
+
+13.3
+
+Bulk Samples
+
+A bulk sample was taken from 25 Mada pits (53, 1-meter samples) that were metallurgically tested by Metcon (Tucson, Arizona) and compared to the Nkamouna metallurgical tests. The Mada and Rapodjombo metallurgical samples were found to be consistent with the Nkamouna column (heap leach) tests.
+
+13.4
+
+Inter-Laboratory Comparisons
+
+Various inter-laboratory checks have been undertaken by Geovic throughout the life of the Cameroon project. Although the focus was on the Nkamouna deposit, the results are generally applicable to Mada, since the mineralization is similar and the sampling and assaying procedures were identical.
+
+In 1999, K D Engineering Co Inc. of Tucson, Arizona, visited Nkamouna and undertook to re-sample eight exploration pits. Samples were taken separately from one-meter intervals in channels in the east and west wall of each pit. Splits of each crushed sample were sent for pulverizing and assay to three different laboratories: International Plasma Laboratories (Vancouver); Bondar Clegg Intertek Testing Services (Vancouver); and Genalysis Laboratories (Perth, Australia). The laboratories did not include Actlabs, which subsequently assayed the greater bulk of Nkamouna samples. Their report (K D Engineering Co. Inc., 2000), indicates that Genalysis and Bondar Clegg agreed closely on Co assays (difference of less than 2 percent relative, and a Coefficient of Correlation, R2, of 0.987), whereas the International Plasma results averaged more than 10 percent low, with R2, of less than 0.95 when compared to either of the other two labs. No further samples were analyzed by International Plasma.
+
+13.5
+
+Quality Control
+
+The samples assayed by Actlabs were submitted to both Actlabs’ and Geovic’s independent QA/QC checks. The use of second splits and sample standards are universally recognized methods to provide confidence in the assaying reliability.
+
+13.5.1
+
+Actlabs Quality Control
+
+The Actlabs laboratory runs assay batches of 24 prepared pulp samples, comprising 20 samples plus repeats on the 1st and 20th samples of each batch, in addition to two in-house standards. One sample per client’s submitted batch of 20 was reweighed along with both an in-house and a certified reference
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+13.3
+
+standard of known Co-Ni-Mn content. Actlabs internal checks allow for a maximum acceptable variance of 2 percent for duplicates and standards. Given its ISO and CAN-P-1579 certifications, Actlabs is required to have a suitable program in place for periodic round-robin inter-laboratory comparisons.
+
+13.5.2
+
+Geovic Sample Splits
+
+Geovic undertook a comprehensive program of comparing second sample splits from Nkamouna. The pairs of samples extracted from the same sample intervals show a high degree of correlation for Co, Ni, and Mn, providing confidence in the ability of Actlabs to generate reproducible assay results from similar sample material. Although the sample-split campaign did not include Mada, there is every expectation that similar results would accrue, given the similarities in geology, sampling methods, and analytical methods.
+
+13.6
+
+Excluded Samples and Reasons
+
+The exclusion of samples from the resource calculations is discussed in Section 17.0, Resources. Nearly all the exclusions were due to ignoring certain pits sunk on metamorphic bedrock at the margins of the deposit, and yielding very low metal values.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+13.4
+
+14.0
+
+DATA VERIFICATION
+
+The Mada deposit was visited briefly in early September 2004. The sampling pits had been backfilled or were flooded, and some roads were impassible; so the surface examination of Mada was cursory. However, Dr. Fred Barnard spent considerable time on the same visit reviewing pits, trenches, and drill samples at the adjacent Nkamouna deposit, and is therefore familiar with the geology and mineralization at Mada as well.
+
+14.1
+
+PAH Samples
+
+PAH considers that a rigorous check-sampling program was neither feasible nor necessary for several reasons:
+
+1) Sampling faces were not readily accessible, as explained above.
+
+2) The resource is defined by nearly 300 pits, most of which have several mineralized samples;
+
+3) There are relatively few samples which are more than ten times the average grade of the deposit, whereas in precious-metals projects, high-grade spikes may be in excess of 100 times the average grade and may significantly influence the average grade;
+
+4) There is a relatively consistent relationship between manganese and cobalt values, which is explainable by the mode of formation of the deposit, including the presence of the mineral asbolane.
+
+5) After reviewing the project in the field and from reports by Geovic and various contract/consulting companies and laboratories, PAH does not feel that there is a significant chance that the reported mineralization has been grossly affected by spurious sampling or assaying.
+
+PAH did collect and send for analysis several samples from the adjacent Nkamouna deposit, which confirmed that significant cobalt and nickel mineralization are present on the Nkamouna property.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+14.1
+
+15.0
+
+ADJACENT PROPERTIES
+
+To the extent that PAH is aware, there are no mineral properties adjacent to, or even nearby, the Geovic Mine Permit. No quantitative information from outside the Mine Permit Area was used in preparation of this report.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+15.1
+
+16.0
+
+METALLURGICAL TESTING AND MINERAL PROCESSING
+
+16.1
+
+Metallurgical Testwork
+
+There is no specific physical upgrading or agitation acid leach testwork for the Mada project. There has been many metallurgical studies conducted for the Nkamouna project and a prefeasibility study was completed in March 2006. However, it is anticipated that the mineralization and metallurgical processes for both Nkamouna and Mada will be similar, based on mineralogical characterizations performed by Pittsburgh Mineral & Environmental Technology (PMET) on samples from Nkamouna, Mada, and Rapodjombo.
+
+A bulk sample was taken from 25 Mada pits (53, 1-meter samples) that were metallurgically tested by Metcon (Tucson, Arizona) and compared to the Nkamouna metallurgical tests. The Mada and Rapodjombo metallurgical samples were found to be consistent with the Nkamouna column (heap leach) tests.
+
+Geovic conducted metallurgical test work in-house in the early development phase for the nearby Nkamouna project. Subsequently, six commercial testing laboratories, two industrial services firm and one university were utilized as listed below:
+
+ Geovic (sizing, analyses, magnetic separation; 1997-2001).
+
+ Pittsburgh Mineral & Environmental Technology (mineralogical characterization November 2002).
+
+ MBX-Systems (bio-leaching evaluation).
+
+ Lakefield Research (physical separation testing; 2001, high pressure acid and atmospheric leaching).
+
+ Oregon State University, Drs. Erwin Schutfort and Norman Rose (SO2 leaching).  Metcon Research Inc. (column leaching studies and physical separation tests; 2003).
+
+ Oregon State Radiation Labs (physical separation; 2003).
+
+ Mountain States Research and Development Inc. (MSRDI) (bench-scale testing including: attritioning, scrubbing, physical separation, settling tests, heavy media separation, pilot scrubbing tests, bulk sample preparation; and pilot-scale testing 2003 -2005).
+
+ Hazen Research Inc. (literature search of processing techniques, bench-scale testing including: grindability, leaching, solution purification, solvent extraction, manganese recovery; 2004-2005) Hazen also completed a pre-feasibility capital and operating cost estimate of the Metals Recovery Plant, a complete copy of which is attached as Appendix C. The Hazen PFS is based on bench scale
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+16.1
+
+tests conducted on representative composites of PUG concentrates and general knowledge in cobalt and nickel engineering, design, and processing.
+ Pocock Industrial, Inc. (settling tests and filtering tests on tailings from the physical upgrade plant (PUG), 2004).
+ Dorr Oliver Eimco (settling tests and filtering tests on tailings from the PUG and MRP tailings, 2005).
+
+16.1.1
+
+Physical Upgrading Tests
+
+Early Investigations
+Early in the history of the Nkamouna Project there were a number of metallurgical investigations that were scoping in nature and investigated several alternative-processing techniques. These studies were laboratory investigations coupled with technical and economic evaluations. This work laid the groundwork for the approach being utilized today.
+The work completed by PMET identified asbolane as the source of the cobalt in the Nkamouna, Mada and Rapodjombo deposits. It also established cobalt and nickel levels in the asbolane (7 to 19.5 percent CoO, 2 to 15 percent NiO). The subsequent test work confirmed that cobalt existed in a discrete, upgradable form that was soluble in H2SO3 at atmospheric pressure.
+Several investigators, including Geovic, Lakefield, and Oregon State, determined that a relatively simple physical process could produce an asbolane concentrate. The concept of dis-aggregation of the ore and the size separation of coarser, harder asbolane from the finer softer lateritic iron oxides was firmly established.
+Dr. Erwin Schutfort and Dr. Norman Rose determined that utilizing sulfurous acid under atmospheric conditions resulted in rapid dissolution of cobalt but less extraction of nickel. These studies led to investigating the application of heap leaching the ore. Extensive column leaching studies were conducted at Metcon Research as well as preliminary agitated leaching studies. These tests indicated that the agitated leach produced higher metal extraction and lower reagent consumption due to shorter leaching time.
+
+Scoping Studies
+
+As a result of these preliminary studies, Geovic embarked upon a process development program focusing on developing the details of the physical upgrading and sulfurous acid leaching of the resulting concentrate. In the spring of 2003, Mountain States R&D International, Inc. (MSRDI) under the direction of Bateman Engineering Inc., undertook a program of scoping out several approaches to concentrating the asbolane. MSRDI investigated the approach suggested by Dr. Schutfort at Oregon State, based on scrubbing and size separation. They tested four different lithologic samples by scrubbing and screening at 1.0 mm. The result indicated the viability of the scrubbing approach.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+16.2
+
+The testing demonstrated that the coarse, hard asbolane present in the Cameroon deposits could be concentrated by simple physical separation techniques. Cobalt values were physically upgraded (PUG Factor) from 1.4 to 2.3 times the feed grade. The finer grained, softer limonite ore type responded most favorably.
+
+Parametric Testing
+Encouraged by these results, Geovic initiated a comprehensive upgrading program at MSRDI on samples from Nkamouna. The program included scrubbing/attritioning of a variety of lithologic samples with and without reagents. MSRDI evaluated size separations at mesh sizes from 8 to 100. The objective was to optimize economic performance not recovery. The results of this program verified the applicability of the PUG process - cobalt upgrading by a factor of 3 with +70 percent recovery. It further defined the operating conditions and highlighted the different response of the two ore types of breccia and ferralite.
+
+16.1.2
+
+Leaching and Metal Recovery Testing
+
+Hazen Research, Inc. prepared a composite sample from the Nkamouna samples that were concentrated by MSRDI.
+
+Hazen completed a comprehensive series of bench-scale tests investigating the dissolution of the asbolane concentrate, the purification of the resulting leach solution and the production of cobalt, nickel and manganese products. They investigated solvent extraction and sulfide precipitation for cobalt and nickel recovery as well as the production of a manganese carbonate product.
+
+The laboratory work also determined the composition of the potential products as well as waste products. This information is being utilized in the marketing and environmental permitting for the project.
+
+In addition to completing the laboratory investigations, Hazen completed a prefeasibility study of the Metals Recovery Plant (MRP). This study concentrated solely on the leaching and metals recovery operations. It included a conceptual design, preliminary equipment selection and capital and operating costs of several alternative scenarios. Hazen also completed an extensive literature search and prepared a comparison of the Nkamouna flowsheet with several other cobalt laterite operations. In addition, Hazen defined emission points and quantities for permitting.
+
+16.1.3
+
+Metallurgical Performance
+
+The process flow sheet discussed earlier is one in which two major operations, physical upgrading and leaching and metals recovery (MRP) treat a blend of 10 percent breccia and 90 percent limonite. The products of these operations consist of cobalt and nickel oxides and manganese carbonate. The test work has confirmed the feasibility of these operations.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+16.3
+
+Physical Upgrading (PUG)
+The best estimate of the performance of the commercial PUG is the work completed by MSRDI on the Mini-Bulk Sample Program. This work suggests that for limonite rich ore, attaining a PUG factor in excess of 3.0 for cobalt results in greater cobalt losses. Continued scrubbing apparently can cause increased cobalt losses, but achieves higher cobalt concentration ratios, grades, and economic performance.
+
+PUG Factor 3.0 3.02 3.5 4.5
+
+% Cobalt Recovery 67.9 72.2 57.4 52.6
+
+Remarks Lower Limonite/Ferralite Composite Overall Composite Lower Limonite/Ferralite Lower Limonite/Ferralite Clay
+
+Treatment of breccia ores generally results in PUG factors of 2.0 or less for cobalt with about 75 percent cobalt recovery. Therefore for a PUG factor of ~3.0 and a recovery of 66 percent cobalt appears to be possible for ore comprised of 90 percent ferralite and 10 percent breccia. Nickel recovery is estimated to be about 32 percent and manganese about 59 percent.
+
+Leaching and Metal Recovery
+
+Hazen projected metal recoveries and product purities for their prefeasibility report. The metal recoveries used for the MRP (recovery from concentrate) are:
+
+Cobalt Nickel Manganese
+
+92% leach - 2% process loss = 90%, 52% leach - 2% process loss = 50% 90% leach - 2% process loss = 88%
+
+These estimates take into consideration leach recovery, scale-up from laboratory conditions, washing efficiency and other losses such as SX and pyrohydrolysis. The recovery figures are reasonable and credible estimates.
+
+The overall recoveries for the combined processes are:
+
+PUG Recovery MRP Recovery Overall Recovery
+
+Co 66 90 59
+
+Ni 32 50 16
+
+Mn 62 88 55
+
+16.1.4
+
+Testwork Summary and Conclusions
+
+In PAH’s opinion, the metallurgical test work completed for the Nkamouna project has been well executed by reputable, industry-recognized laboratories. The concept of producing an asbolane concentrate by scrubbing and sizing has been demonstrated, at the bench-scale, on a wide variety of samples of various
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+16.4
+
+ore types. The unit operations that constitute the PUG process are simple, robust and capable of being scaled up without a great deal of uncertainty. However, the designed PUG process has not yet been specifically tested for the expected ore blend of 90 percent ferralite and 10 percent breccia that now constitutes the project basis.
+
+16.2
+
+Process Description
+
+Two key attributes of the Nkamouna and Mada ores determine the process flow sheet. The first is the fact that the cobalt, a large amount of the nickel and the manganese are contained in the mineral Asbolane, a manganiferous oxide mineral. Asbolane is much coarser and harder than the other lateritic oxides and can be upgraded by scrubbing and size classification to produce an asbolane concentrate. The other key aspect of asbolane is the high manganese content (MnO2) that determines the process for recovering metal values from the concentrate. A reducing leach, employing SO2, (H2SO3) dissolves the cobalt, nickel and manganese contained in Asbolane. Consequently, Nkamouna and Mada have the potential to produce cobalt, nickel and manganese chemicals. The process consists of two sections, the physical upgrading (PUG) and the metals recovery plant (MRP).
+
+The process will be designed to treat a blend of two ore types; ferralite and breccia. The average chemical analysis of the ore types is 0.21 percent Co, 0.48 percent Ni and 1.15 percent Mn. The process assumes treatment of a nominal 7,000 tpd ore in the PUG, producing 1,500 tpd concentrate to feed the MRP. The following options will be evaluated for processing mineralized material from Mada.
+
+ Truck the Mada mineralized material to the Nkamouna PUG and MSP plants.
+
+ Install a PUG plant at Mada and truck concentrates to the Nkamouna plant.
+
+ Install a new PUG and MRP in the north Mada area.
+
+16.3
+
+Tailings Disposal
+
+Leach tailings will be neutralized with a 30 percent slurry of slaked lime (Ca(OH)2) in a CCD tails holding tank. The neutralized MRP tails are combined with the PUG tailings and pumped to the tailings storage facility for permanent disposal. Samples of neutralized tailings were subjected to the USEPA Toxic Characterization Leaching Protocol (TCLP) and were found to be non-hazardous.
+
+As currently envisioned, there are four waste and low-grade streams from the process. Two from the PUG plant, and two from the MRP. The PUG plant feed is a nominal 7,000 tpd with 1,500 tpd of product to the MRP, 4,700 tpd of PUG tailings, and 800 tpd of middling concentrates. The PUG middling concentrates will be stored in a segregated area of the mine backfill. The PUG tailings will be disposed of in a tailings storage facility.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+16.5
+
+The two waste streams from the MRP are the manganese precipitate and the CCD leach tails. The manganese precipitate is stored in a segregated area of the mine backfill (~ 55 tpd) and the CCD leach tails (~ 1,385 tpd) are disposed with the PUG tails in a tailings storage facility.
+
+Depending on the process decision from the options discussed in 16.2 above, after the Napene Creek tailings storage facility is filled to capacity, tailings from additional Mada resources could be piped to other alternate tailings disposal areas currently being considered within a 4 kilometer radius of the Nkamouna plant site.
+
+16.4
+
+Process Water Balance
+
+An overall water balance was prepared from material balances around the PUG Facility, MRP, and Napene Creek TSF. Except for the tailings storage facility, all flows are constant throughout the year. Knight Piesold estimated water flows in and out of the TSF on a monthly basis, including excess water generated by consolidation of settled tailings, seasonal rainfall and evaporation. This computer model was revised to simplify the overall balance by combining monthly flow estimates into quarterly averages. More conservative estimates of impounded water, especially in the first three years of operation, were used in the overall balance.
+
+The overall water balance shows that the need to divert surplus water around the tailings dam is a rare event. Alternatively, tailings supernatant water can be accumulated during these periods to reduce the demand for Edje River water makeup. The overall water balance is simplified as all water in the mine and infrastructure areas are currently planned to be diverted around such facilities and placed in natural drainages. In this manner, the Napene Creek TSF water balance will be independent of external variations.
+
+Demand for Edje River water over the project life was estimated from the overall water balance. Impound volumes were also estimated on a quarterly basis by adding solids volumes to water impound volumes.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+16.6
+
+17.0
+
+MINERAL RESOURCE
+
+17.1
+
+Resource Model
+
+A mineral resource estimate was prepared for the Mada area using a three-dimensional block model to estimate cobalt, nickel, and manganese grade for individual blocks with dimensions of 10 by 10-meters horizontal by 1-meter vertical. In addition, lithology codes and resource classification codes were defined for each block.
+
+Compared to the Nkamouna deposit, the Mada deposit is reported to have similar geologic properties. Significant differences between the deposits and data are as follows:
+
+1. The potentially mineralized material at Mada covers an area approximately seven times larger than Nkamouna.
+
+2. All Mada samples are pits and most of the pits are not deep enough to penetrate the full thickness of the lower limonite (ferralite) horizon, which is the primary ore-bearing horizon at Nkamouna.
+
+3. The Mada deposit is much more sparsely sampled than Nkamouna. Except for a few fences of pits at 100-meter spacing, sample spacing is on an approximate 500-meter grid. There are 296 pits at Mada, while 1,272 pits and drill holes were used for the Nkamouna estimate or 77 percent fewer sample locations. Considering the greater area of Mada, the sampling density is only 1/30th that of Nkamouna.
+
+The resource model for Mada was prepared using the same method of “unfolding” the deposit as was used at Nkamouna, but with several significant differences, as follows:
+
+1. The top of ferralite was used to define the index surface for unfolding the deposit rather than the top of mineralization.
+
+2. A nearest-neighbor (NN) estimate with appropriate grade caps was used to estimate block model grades rather than inverse-distance-power (IDP). The NN estimates were adjusted using the IDP/NN ratios for tonnage and grade from Nkamouna to account for volume-variance effects.
+
+3. The Nkamouna resource estimate was limited to the area inside a drilling grid of 600 meters with a maximum extrapolation of 170 meters outside the sampled area. Because of the wider sample spacing and the limited drilling to the full depth of the deposit, Mada resources were estimated inside a drilling grid of 1,500 meters with a maximum extrapolation of 420 meters.
+
+4. All Mada resources are classified as “Inferred Resources.”
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+17.1
+
+The Mada resource is summarized in Table 17-1 using a cutoff grade of 0.12 percent for ferralite and 0.28 percent cobalt for breccia.
+
+TABLE 17-1
+
+Geovic, Ltd.
+
+Mada Resource Estimate
+
+(Sample Spacing up to 1500 meters, Maximum Extrapolation 420 meters)
+
+Inferred NN Resource Before Adjustment for Volume-Variance Effects
+
+Cutoff
+
+Tonnes
+
+Type
+
+%Co
+
+(1000's)
+
+%Co
+
+%Ni
+
+Breccia
+
+0.28
+
+13,200
+
+0.43
+
+0.56
+
+Ferralite
+
+0.12
+
+118,000
+
+0.21
+
+0.49
+
+Total
+
+131,200
+
+0.23
+
+0.50
+
+Inferred NN Resource After Adjustment for Volume-Variance Effects
+
+Cutoff
+
+Tonnes
+
+Type
+
+%Co
+
+(1000's)
+
+%Co
+
+%Ni
+
+Breccia
+
+0.28
+
+14,300
+
+0.38
+
+0.53
+
+Ferralite
+
+0.12
+
+130,800
+
+0.20
+
+0.48
+
+Total
+
+145,100
+
+0.21
+
+0.48
+
+%Mn 2.87 1.08 1.26
+%Mn 2.53 1.00 1.15
+
+The cobalt resource using a cutoff grade of 0.12 percent cobalt is shown graphically in Figure 17-1 as a grade-thickness map and in Figure 17-2 as thickness of mineralization.
+
+17.2
+
+Sample Data
+
+Pit sample data including collar coordinates, assays, and lithology were provided by Geovic as Excel spreadsheet files. The format of the data is similar to that provided by Geovic for Nkamouna and the same procedures were used to extract lithologic contacts and to reformat the data for use in the MicroModel® resource modeling system.
+
+17.3
+
+Topographic Data
+
+No topographic data are available for the Mada area. The collar elevations for the pit were contoured and are shown in Figure 17-3 with pit locations.
+
+17.4
+
+Grade Distributions
+
+17.4.1
+
+Cobalt Grade
+
+Cobalt grade cumulative frequency plots were prepared for the breccia and ferralite zones at the Mada deposit using a nearest-neighbor model to decluster the samples. A cutoff grade of 0.05% cobalt was used to remove unmineralized samples from the distributions.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+17.2
+
+Prepared by
+pincock, allen & holt
+165 S. Union Boulevard, Suite 950
+Lakewood, Colorado 80228
+Phone (303) 986-6950
+
+Project No.
+
+34419
+
+Prepared for
+GEOVIC Ltd.
+Project Name
+Mada Cobalt 43-101
+
+FIGURE 17-1
+COBALT GRADE THICKNESS
+
+Date of Issue
+Jun/2006
+Drawing Name
+Fig 17-1.cdr
+
+Prepared by
+pincock, allen & holt
+165 S. Union Boulevard, Suite 950
+Lakewood, Colorado 80228
+Phone (303) 986-6950
+
+Project No.
+
+34419
+
+Prepared for
+GEOVIC Ltd.
+Project Name
+Mada Cobalt 43-101
+
+FIGURE 17-2
+THICKNESS OF MINERALIZATION
+
+Date of Issue
+Jun/2006
+Drawing Name
+Fig 17-2.cdr
+
+Prepared by
+pincock, allen & holt
+165 S. Union Boulevard, Suite 950
+Lakewood, Colorado 80228
+Phone (303) 986-6950
+
+Project No.
+
+34419
+
+Prepared for
+GEOVIC Ltd.
+Project Name
+Mada Cobalt 43-101
+
+FIGURE 17-3
+TOPOGRAPHY
+
+Date of Issue
+Feb/2006
+Drawing Name
+Fig 17-3.cdr
+
+These plots, shown in Figure 17-4, indicate that the grade distributions at Mada are similar to those at Nkamouna, although the high-grade population appears to be absent at Mada. Since the size of the high-grade cobalt zones at Nkamouna is generally much smaller than the 500-meter pit spacing at Mada, this difference may be an artifact of sample spacing and high-grade pods may still be found when the deposit is sampled at closer spacing. It is also possible that these differences would be less significant if only the better mineralized portions of Mada were compared to Nkamouna.
+FIGURE 17-4 Geovic, Ltd. Mada Resource Estimate Lognormal cumulative frequency plot for cobalt grade. Mada and Nkamouna deposits
+10
+
+Cutoff Grade (%Cobalt)
+
+1
+
+0.1 0.01
+
+Legend Mada Breccia Mada Ferrilite Nkamouna Breccia Nkamouna Ferrilite
+Fraction Samples Above Cutoff
+
+0.9999 0.999 0.99 0.95 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.05 0.01 0.001
+0.0001
+
+17.4.2
+
+Nickel Grade
+
+Nickel grade cumulative frequency plots were prepared for the breccia and ferralite zones at the Mada deposit using a nearest-neighbor model to decluster the samples.
+
+These plots, shown in Figure 17-5, show that the nickel grade distributions at Mada are similar to those at Nkamouna. Up to 0.2 percent nickel the distributions in the two deposits are virtually identical. Above
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+17.6
+
+0.2 percent; however, nickel at Nkamouna is about 30 to 40 percent higher grade than at Mada. As with cobalt, it is too early to determine the significance of the differences in the nickel grade distributions.
+FIGURE 17-5 Geovic, Ltd. Mada Resource Estimate Lognormal cumulative frequency plot for nickel grade. Mada and Nkamouna deposits
+10
+
+Cutoff Grade (%Nickel)
+
+1
+
+0.1 0.01
+
+Legend Mada Breccia Mada Ferrilite Nkamouna Breccia Nkamouna Ferrilite
+Fraction Samples Above Cutoff
+
+0.9999 0.999 0.99 0.95 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.05 0.01 0.001
+0.0001
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+17.7
+
+17.5
+
+Lithologic Surfaces
+
+Lithologic surfaces were defined using a triangular network, or wireframe, to interpolate the elevation of the various lithologic surfaces to resource model block centers from the formation depths in the pit lithology logs. Surfaces were estimated for the bottom of the granular zone (upper limonite), the bottom of breccia (which is also the top of ferralite), and the bottom of ferralite (lower limonite).
+
+Where depth of formation data were available from the pit lithology logs, that depth was used to define the lithologic surface. Where a formation depth could not be determined from the lithologic data, a depth was estimated based on the surrounding drill holes. Estimation of formation depths was particularly important for the bottom of ferralite surface since only 13 percent of the pits penetrated saprolite, schist, or serpentine. In addition, about 40 percent of the pits terminated in breccia, therefore the elevation of the top of the ferralite is often estimated from adjacent pits.
+
+17.6
+
+Resource Estimation Method
+
+Resources were estimated for Mada using a similar “unfolding” procedure to that used for Nkamouna. Because the sampling was much wider spaced at Mada than at Nkamouna, grade zones were not used and a nearest neighbor (NN) method of estimation was used rather than inverse-distance-power (IDP) estimation. In addition, the top of the ferralite unit was used as the index surface for unfolding the deposit rather than the top of mineralization.
+
+The top of ferralite was used rather than the top of mineralization both to save time, and because the top of mineralization is difficult to define with the wide sample spacing at Mada. Early work at Nkamouna showed that the top of ferralite was very similar to the top of mineralization, thus should be appropriate for the Mada resource estimate.
+
+Grade zones were not used because the samples were too widely spaced to provide reliable delineations of the grade zone outlines. In addition, the NN estimation method used at Mada is insensitive to geologic assumptions and grade zoning. NN was also preferred over IDP for the Mada estimate because the smoothing of the IDP estimates is difficult to control when the sample spacing is very wide. Although NN estimation provides a reasonable overall estimate for the resource in this case, tonnage and grade must be corrected for volume-variance effects (internal dilution), since NN estimates assume a much greater degree of mining selectivity than can be achieved in actual practice. Volume-variance adjustments were estimated based on the ratio if IDP/NN tonnage and grade for measured and indicated resource estimates at Nkamouna.
+
+17.7
+
+Resource Classification
+
+The NN model was estimated in the unfolded model for all blocks inside a sample grid of 1500 meters and blocks extrapolated up to 420 meters outside the sampled area. The 1,500 meter grid implies a maximum distance between sample point and block center of 1060 meters. This large search radius was sufficient to provide resource estimates for about 82 percent of the resource blocks.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+17.8
+
+Since even the nominal 500 meter sampling grid at Mada is relatively large compared to the inferred resource at Nkamouna, for which the sampling grid for inferred resource was between 200 and 600 meters, the inferred resource at Mada was reported as three subcategories based on 500, 1000, and 1500-meter sample grids. The subcategories of the Mada inferred resources are shown in Tables 17-2 through 17-4.
+
+TABLE 17-2 Geovic, Ltd. Mada Resource Estimate (Sample Spacing up to 500 meters, Maximum Extrapolation 140 meters)
+
+Inferred NN Resource Before Adjustment for Volume-Variance Effects
+
+Type Breccia Ferralite Total
+Type Breccia Ferralite Total
+
+Cutoff
+
+Tonnes
+
+%Co
+
+(1000's)
+
+%Co
+
+%Ni
+
+0.28
+
+9,100
+
+0.43
+
+0.55
+
+0.12
+
+39,000
+
+0.21
+
+0.50
+
+48,100
+
+0.25
+
+0.51
+
+Inferred NN Resource After Adjustment for Volume-Variance Effects
+
+Cutoff
+
+Tonnes
+
+%Co
+
+(1000's)
+
+%Co
+
+%Ni
+
+0.28
+
+9,800
+
+0.38
+
+0.52
+
+0.12
+
+43,600
+
+0.20
+
+0.48
+
+53,400
+
+0.23
+
+0.49
+
+%Mn 2.71 1.14 1.44
+%Mn 2.39 1.06 1.30
+
+TABLE 17-3 Geovic, Ltd. Mada Resource Estimate (Sample Spacing 500 to 1000 meters, Maximum Extrapolation 280 meters)
+
+Inferred NN Resource Before Adjustment for Volume-Variance Effects
+
+Type Breccia Ferralite Total
+Type Breccia Ferralite Total
+
+Cutoff
+
+Tonnes
+
+%Co
+
+(1000's)
+
+%Co
+
+%Ni
+
+0.28
+
+3,700
+
+0.44
+
+0.60
+
+0.12
+
+55,700
+
+0.21
+
+0.49
+
+59,400
+
+0.22
+
+0.49
+
+Inferred NN Resource After Adjustment for Volume-Variance Effects
+
+Cutoff
+
+Tonnes
+
+%Co
+
+(1000's)
+
+%Co
+
+%Ni
+
+0.28
+
+3,900
+
+0.36
+
+0.50
+
+0.12
+
+61,800
+
+0.19
+
+0.47
+
+65,700
+
+0.20
+
+0.47
+
+%Mn 3.36 1.05 1.19
+%Mn 1.96 0.97 1.03
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+17.9
+
+TABLE 17-4 Geovic, Ltd. Mada Resource Estimate (Sample Spacing 1000 to 1500 meters, Maximum Extrapolation 420 meters)
+
+Inferred NN Resource Before Adjustment for Volume-Variance Effects
+
+Type Breccia Ferralite Total
+Type Breccia Ferralite Total
+
+Cutoff
+
+Tonnes
+
+%Co
+
+(1000's)
+
+%Co
+
+%Ni
+
+0.28
+
+500 0.40
+
+0.54
+
+0.12
+
+23,000
+
+0.21
+
+0.48
+
+23,500
+
+0.21
+
+0.48
+
+Inferred NN Resource After Adjustment for Volume-Variance Effects
+
+Cutoff
+
+Tonnes
+
+%Co
+
+(1000's)
+
+%Co
+
+%Ni
+
+0.28
+
+500 0.36
+
+0.50
+
+0.12
+
+25,500
+
+0.19
+
+0.47
+
+26,000
+
+0.20
+
+0.47
+
+%Mn 2.23 1.05 1.08
+%Mn 1.96 0.98 1.00
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+17.10
+
+18.0
+
+OTHER RELEVANT DATA AND INFORMATION
+
+PAH is not aware of any relevant data or information not already presented in this report.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+18.1
+
+19.0
+
+INTERPRETATION AND CONCLUSIONS
+
+Adequacy of Procedures. PAH and various other firms and independent consultants have reviewed the methods and procedures utilized by Geovic at the Mada and Nkamouna Projects to gather geological and assaying information and found them reasonable and meeting generally accepted industry standards for a preliminary feasibility level of study.
+
+Adequacy of Data. PAH believes that Geovic has conducted exploration and development sampling and analysis programs using standard practices, providing generally reasonable results. PAH believes that the resulting data can effectively be used in the subsequent estimation of resources.
+
+Compliance with Canadian NI 43-101 Standards. PAH believes that the current drill hole database is sufficient for generating a preliminary resource model for use in resource estimation.
+
+At a cutoff of 0.12 percent cobalt in the limonite and ferralite, and 0.23 percent cobalt in the breccias, the inferred resource is 145 million tonnes at a cobalt grade of 0.21 percent and a nickel grade of 0.48 percent.
+
+PAH believes that the resource estimates have been calculated utilizing acceptable estimation methodologies. PAH is also of the opinion that the classification of inferred resources, stated in Table 171, meets the definitions as stated by NI 43-101 and defined by CIM Standards on Mineral Resources and Reserves Definitions and Guidelines adopted by the CIM Council on December 21, 2005.
+
+19.1
+
+Study Conclusions
+
+Key findings of the Technical Report are summarized below:
+
+ Pincock Allen & Holt (PAH) estimates that the Mada deposit contains an inferred resource of 145 million tonnes at a grade of 0.21 percent cobalt and 0.48 percent nickel. Resources are based on definitions in Canadian National Instrument 43-101 and meet other international standards.
+
+ The deposit averages approximately 4 meters in depth and is relatively simple to mine. Most mineralization is contained in one interval averaging 4 meters thick.
+
+ Metallurgy is straightforward using attritioning and size separation to produce a high-grade concentrate while rejecting nearly 80 percent of the run-of-mine material as waste and low grade. Concentrate leaching is at low temperature and atmospheric pressure, followed by solvent extraction and pyrohydrolysis to produce high-purity cobalt and nickel oxides. The Mada mineralization is substantially lower in acid consuming constituents than most other laterite deposits.
+
+ GeoCam’s mining rights were secured from the Republic of Cameroon via a Mining Convention issued in 2002 and a 25-year Mining Permit decreed in 2003 that covers 1,600 square kilometers and is
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+19.1
+
+renewable for the life of the resource. Business incentives were granted in 2002 when the project was designated a Strategic Enterprise Regime.
+ Substantial resources occur in the Mada deposit on GeoCam’s Mine Permit that may feed the initial Nkamouna plant for several additional years.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+19.2
+
+20.0
+
+RECOMMENDATIONS
+
+Based on the results of this Technical report, the exploration program for the Mada project should include additional infill data and proceed to a Preliminary Assessment stage. The hole or test pit spacing recommended by Alan Noble of Ore Reserve Engineering for measured, indicated and inferred resources at Mada is 100m, 200m and 400m, respectively. The current pit spacing at Mada is 500m, but many of the pits are too shallow to transect the cobalt mineral zone. Below is a program to complete exploration and further develop the Mada resource:
+
+1. RC drilling 216-holes to an average depth of 20m (4,320m).
+
+2. Infill RC drilling 216-holes to an average depth of 19.5m (4,220m). These holes will be drilled as tangential offset holes to the initial 500m spaced drill holes and the hand dug pits.
+
+3. Construct 166-km of drill access.
+
+4. Approximately 210-pits will be hand-dug and deepened at Mada (e.g., 90-deepend; 20-dug adjacent to drill holes, & 100-new pits).
+
+5. Core drilling 20-holes (e.g., offset holes to existing hand dug pits, and new drill holes; 15-20m cored per hole and the rest RC).
+
+Cost Estimate, US $
+1) RC Drilling 2) Infill Drilling 3) HQ coring (200m mineral) 4) Pit digging program & s.g.’s 5) Road and drill tracks 6) Support equipment & vehicles 7) Contract surveying 8) Assaying and sample shipping 9) Metallurgical testing (PUG & leach) 10) Reclamation of roads and pits 11) Kongo base camp costs 12) QA-QC program 15) 43-101 Mada resource estimate & report
+Sub-Total Contingencies GRAND TOTAL
+
+260,000 240,000
+20,000 30,000 20,000 120,000 50,000 70,000 30,000 10,000 200,000 20,000 50,000
+1,120,000 230,000
+1,350,000
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+20.1
+
+21.0
+
+REFERENCES
+
+1. Asombang, R.N., 2004, Environmental Impact Assessment of Mining Project at Nkamouna. Archeological Report.
+
+2. Boldt, J.R., and Queneau, P., 1967, The Winning of Nickel: Van Nostrand (Princeton), 487 pages.
+
+3. Buckovic, W.A., 2004, Cameroon nickel-cobalt project, technical report: Internal document of Geovic Ltd, dated January 2004, 295 pages.
+
+4. Burcham, N.R., 2004, Technical considerations of the 2003 exploration programme of the Nkamouna laterite-hosted Co-Ni-Mn deposit, southeast Cameroon: Internal document of Geovic, Ltd., dated 2004, 49 pages.
+
+5. Cameroon Direction des Mines et de la Geologie, undated (probably 1980’s), Carte geologique du sud-est Cameroun, scale 1:500,00, sheet 1, Abong-Mbang, in color.
+
+6. Chace, F.M., Cumberlidge, J.T., Cameron, W.L., and Van Nort, S.D., 1969, Applied Geology at the Nickel Mountain mine, Riddle, Oregon: Economic Geology, volume 64, pages 1-16. A comprehensive illustration of the interrelations of geology, mining, and processing.
+
+7. Cumberlidge, J.T., and Chace, F.M., 1968, Geology of the Nickel Mountain mine, Riddle, Oregon: pages 1650-1672 in Ridge, J.D. (ed.), Ore deposits of the United States, 1933-1967, The GratonSales Volume: American Institute of Mining, Metallurgical, and Petroleum Engineers (New York), 1880 pages, 2 volumes. A comprehensive geological discussion.
+
+8. Evans, D.J.I., Shoemaker, R.S., and Veltman, H (eds.), 1979, International Laterite Symposium: Society of Mining Engineers, 688 pages. This volume includes 32 articles on geology, mining, and processing of nickeliferous laterites worldwide.
+
+9. Fotso R., D.F. Lemaire, R.J. Dowsett, Cameroon Ornithological Club, P. Scholte, M. Languy, and C. Bowden (2001). Cameroon. Pp 133 – 159 In L.C.D. Fishpool and M.I. Evans. Eds. Important Birds Areas in Africa and associated islands: Priority sites for conservation. Newbury and Cambridge. U.K: Pisces Publications and Birdlife International (Birdlife Conservation Series n° 11).
+
+10. Gideon, L.D., 2005, Mineralogical and micromorphological characterization of weathered serpentinite from south-east Cameroon; Masters Degree thesis, Ghent University (Belgium), 105 pages.
+
+11. Gleeson, S.A., Butt, C.R.M., and Elias, M, 2003, Nickel laterites – a review: SEG Newsletter of Society of Economic Geologists, no. 54 (July 2003), pages 1, 12-18. An up-to-date review of laterite geology.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+21.1
+
+12. Hazen Research, Inc., Geovic Cameroon Cobalt-Nickel Project Process Plant Pre-Feasibility Study, December 6, 2004.
+
+13. Hazen Research, Inc., Geovic Cameroon Cobalt-Nickel Project Process Development Laboratory Program, December 15, 2004.
+
+14. K D Engineering Co. Inc., 2000, Resampling program, Nkamouna deposit: consulting report prepared for Geovic Cameroon S.A., dated February 2000, 48 pages plus tables.
+
+15. Knight Piésold and Co., 2004, Nkamouna Project Environmental and Social Assessment Draft Executive Summary.
+
+16. Knight Piésold and Co., 2004, Nkamouna Project Environmental and Social Assessment Draft Community and Indigenous Peoples Development Plan (CDP).
+
+17. Knight Piésold and Co., 2004, Nkamouna Project Environmental and Social Assessment Draft Emergency Response and Contingency Plan (ERCP).
+
+18. Knight Piésold and Co., 2004, Nkamouna Project Environmental and Social Assessment Draft Environmental and Social Action plan (ESAP).
+
+19. Knight Piésold and Co., 2004, Nkamouna Project Environmental and Social Assessment Draft Environmental and Social Impact Assessment (ESIA).
+
+20. Knight Piésold and Co., 2004, Nkamouna Project Environmental and Social Assessment Draft Mine Reclamation and Closure Plan (MRCP).
+
+21. Knight Piésold and Co., 2004, Nkamouna Project Environmental and Social Assessment Draft Waste Management Plan (WMP).
+
+22. Knight Piésold and Co., Nkamouna Project Tailing Storage Prefeasibility Design Report, February 3, 2006.
+
+23. Mountain States R&D International, Inc., Physical Upgrading Tests on Geovic’s Co-Ni-Mn Project in Cameroon, November 25, 2003.
+
+24. Mountain States R&D International, Inc., Geovic Bulk Sampling Physical Upgrading Results of Pilot Plant Test, December 21, 2004.
+
+25. Mountain States R&D International, Inc., Mini-Bulk Sampling Physical Upgrading Test Program for Geovic’s Lateritic Deposit in Cameroon, January 23, 2004.
+
+26. Pittsburgh Mineral & Environmental Technology, Inc. (PMET) Report dated November 5, 2002.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+21.2
+
+27. URS (2001). Nickel-cobalt Development Project in Cameroon: Interim Environmental Assessment Report.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+21.3
+
+22.0
+
+ILLUSTRATIONS
+
+The illustrations supporting the various sections of the report are located within the relevant sections immediately following the references to the illustrations, for ease of reference. An index of tables and illustrations is provided at the beginning of the report.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+22.1
+
+23.0
+
+ADDITIONAL REQUIREMENTS FOR DEVELOPING OR PRODUCING PROPERTIES
+
+This section is not applicable.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+23.1
+
+24.0
+
+CERTIFICATES OF QUALIFICATION
+
+Frederick L. Barnard, PhD, R.G. 1835 Alkire Street
+Golden, Colorado 80401
+
+As an author of the report entitled “CNI 43-101 Technical Report, Mada Cobalt Project, Cameroon” dated February 16, 2007 (the “Technical Report”) and prepared on behalf of Geovic, Ltd. (the “Issuer”), I, Fred Barnard, do hereby certify that:
+
+1. I am a graduate of the University of California, Berkeley in 1963 with a B.A. degree in Geology, and from the University of Colorado in 1968 with a Ph.D. in Geology, and have practiced geology continuously since 1968.
+
+2. I am a Certified Geologist in the State of California (R.G. No. 7432), in good standing.
+
+3. I am a member of several mineral industry technical societies:
+
+ SME (Society for Mining, Metallurgy, and Exploration), Fellow.  SEG (Society of Economic Geologists), Fellow.  DREGS (Denver Region Exploration Geologists Society), Member.  GSN (Geological Society of Nevada), Member  Northwest Mining Association, Member  Geological Society of America, Member.
+4. I am a professional in the mining industry, and have been for 37 years, including:
+
+ 11 years (1968-1979) for INCO, Ltd in Guatemala, Toronto, and Denver;  6 year for Anaconda Minerals Company, based in Denver, Colorado, U.S.A.  20 years as an independent consulting geologist, based in Golden, Colorado
+5. I am responsible for Sections 7 through 15, Geology, of the report titled “Technical Report, Mada Cobalt Project” and dated February 16, 2007 (“the Technical Report”) relating to the Mada Cobalt property.
+
+6. My experience includes geology, sampling programs, project evaluation, and/or resource validation of nickel-cobalt laterites derived from ultramafic rocks in Guatemala, Brazil, Costa Rica, Puerto Rico, Australia, Indonesia, Burundi, Spain, and Russia.
+
+7. I have not received, nor do I expect to receive, any interest, directly or indirectly, from Geovic, Ltd., any affiliate or associate company, and neither I nor any affiliated entity of mine, is at present, or under an agreement, arrangement or understanding expects to become, an insider, associate, affiliated entity or employee of Geovic, Ltd., or any associated or affiliated entities.
+
+8. Neither I nor any affiliated entity of mine own, directly or indirectly, nor expect to receive, any
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+24.1
+
+interest in the properties or securities of Geovic, Ltd. or any associated or affiliated companies.
+9. This report, as well as its conclusions and recommendations, are based on the examination of available data and discussions with involved geologists. I visited the Mada Property on September 1, 2, and 3, 2004 and examined the data supplied by Geovic, Ltd., during that time and subsequently.
+10. Neither I nor any affiliated entity of mine, have earned the majority of our income during the preceding three years from Geovic, Ltd., or any associated or affiliated companies.
+11. I have read the NI 43-101 and Form 43-101F1 and have prepared the technical report in compliance with this NI 43-101 with generally accepted Canadian industry practice.
+
+Dated in Lakewood, Colorado, this 16th day of February 2007.
+“Frederick L. Barnard” ______________________________ Frederick L. Barnard, Ph.D California Professional Geologist
+Pincock, Allen & Holt 34419 February 16, 2007
+
+24.2
+
+Richard J. Lambert, P.E. 165 S. Union Blvd., Suite 950
+Lakewood, CO 80228 303-986-6950
+As an author of the report entitled “CNI 43-101 Technical Report, Mada Cobalt Project, Cameroon” dated February 16, 2007 (the “Technical Report”) and prepared on behalf of Geovic, Ltd. (the “Issuer”), I, Richard J. Lambert, P.E., do hereby certify that:
+1. I am a Principal Mining Engineer and Manager of Mine Engineering and Geological Services with the international consulting firm of Pincock, Allen & Holt and have been so since October 2004.
+2. I am a Registered Professional Engineer in the state of Wyoming (#4857), the state of Idaho (#6069), and the state of Montana (#11475).
+3. I am a graduate of the Mackay School of Mines at the University of Nevada, Reno with a bachelors of science degree in Mining Engineering in 1980, and Boise State University, with a Masters of Business Administration degree in 1995. I have practiced my profession continually for 26 years.
+4. I am a member of the Society for Mining, Metallurgy, and Exploration (SME) since 1975 and a Registered Member since May 2006.
+5. I am responsible for the preparation of Sections 2-6, general information; Section 16, processing; and Sections 18-22, final information. I visited the Mada Project site in August 2006.
+6. Since 1980 I have been involved in mine engineering, mine management, mine operations and mine financial analyses, involving copper, gold, silver, nickel, cobalt, uranium, oil shale, phosphates, coal and base metals located in the United States, Canada, Zambia, Madagascar, Turkey, Bolivia, Chile, and Venezuela.
+7. As a result of my education and experience, I am a “Qualified Person” as defined in National Policy 43-101.
+8. As of the date of the certificate, to the best of my knowledge, information and belief, the technical report contains all scientific and technical information that is required to disclose to make the technical report not misleading.
+9. I am independent of the Issuer in accordance with Section 1.4 of National Instrument 43-101.
+10. I have not received, nor do I expect to receive, any interest, directly or indirectly, from Geovic, Ltd., any affiliate, or associate company.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+24.3
+
+11. I have read National Instrument 43-101, Forms 43-101F1, and the Technical Report has been prepared in compliance with that instrument and form.
+12. I consent to the filing of the Technical Report with any stock exchange and other regulatory authority and any publication by them, including electronic publication in the public company files on their websites accessible by the public.
+
+Dated at Lakewood, Colorado, this 16th day of February 2007.
+“Richard L. Lambert” ______________________________________ Richard J. Lambert, P.E.
+Pincock, Allen & Holt 34419 February 16, 2007
+
+24.4
+
+Alan C. Noble, P.E. Ore Reserves Engineering Lakewood, Colorado 80215
+USA Telephone: 303-237-8271
+Fax: 303-237-4533 Email: anoble@OreReservesEngineering.com
+As an author of the report entitled “CNI 43-101 Technical Report, Mada Cobalt Project, Cameroon” dated February 16, 2007 (the “Technical Report”) and prepared on behalf of Geovic, Ltd. (the “Issuer”), I, Alan C. Noble, P.E., do hereby certify that:
+1. I am a self employed Mining Engineer doing business as:
+Ore Reserves Engineering 12254 Applewood Knolls Drive Lakewood, Colorado 80215 USA
+2. I graduated from the Colorado School of Mines, Golden, Colorado, with a Bachelor of Science Mining Engineering in 1970.
+3. I am a Registered Professional Engineer in the State of Colorado, USA, PE 26122. In addition, I am a Member of the Society of Mining, Metallurgy, and Exploration (SME).
+4. I have practiced my profession as a mining engineer continuously since graduation for a total of 36 years.
+5. I have read the definition of “qualified person” set out in National Instrument 43-101 (“NI 43101") and certify that by reason of my education, registration of a professional engineer, affiliation with a professional association (as defined in NI 43-101) and past relevant work experience, I fulfill the requirements to be a “qualified person” for the purposes of NI 43-101.
+6. I am responsible for Section 17 of the report titled “Technical Report: Mada Cobalt Project” and dated February 16, 2007 (“the Technical Report”) relating to the Mada Cobalt property. I am also responsible for the mineral resource estimate that is discussed in Section 17.
+7. I have not visited the Mada property and have had no prior involvement with the property that is the subject of the Technical Report.
+8. I am not aware of any material fact or material change with respect to the subject matter of this Technical Report that is not reflected in this Technical Report, the omission to disclose which makes the Technical Report misleading.
+
+Pincock, Allen & Holt 34419 February 16, 2007
+
+24.5
+
+9. I am independent of the issuer applying all of the tests of section 1.4 of National Instrument 43101.
+10. I have read National Instrument 43-101 and Form 43-101F1, and the Technical Report has been prepared in compliance with that instrument and that form.
+11. I consent to the filing of the Technical Report with stock exchange and other regulatory authority and any publication by them for regulatory purposes, including electronic publication in the public company files on their websites accessible by the public, of the Technical Report.
+
+Dated at Lakewood, Colorado this 16th day of February, 2007
+“Alan C. Noble” ________________________________ Alan C. Noble, PE 26122.
+Pincock, Allen & Holt 34419 February 16, 2007
+
+24.6
+
+
